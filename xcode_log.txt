@@ -1,0 +1,1356 @@
+
+                    18 Xcode
+                    19 2019-04-26 08:54:02 +0000  >>> Copying /Users/e6620167/Library/Developer/Xcode/Archives/2019-04-26/Carrefour Cuali 26-04-2019, 10.53.xcarchive/Products/Applications/Carrefour Cuali.app 
+                    1144 Xcode
+                    1145 Xcode
+                    1146 Xcode
+                    1147 Xcode
+                    1148 Xcode
+                    1149 Xcode
+                    1150 Xcode
+                    1151 Xcode
+                    1152 Xcode
+                    1153 Xcode
+                    1154 Xcode
+                    1155 Xcode
+                    1156 Xcode
+                    1157 Xcode
+                    1158 Xcode
+                    1159 Xcode
+                    1160 Xcode
+                    1161 Xcode
+                    1162 Xcode
+                    1163 Xcode
+                    1164 Xcode
+                    1165 Xcode
+                    1166 Xcode
+                    1167 Xcode
+                    1168 Xcode
+                    1169 Xcode
+                    1170 Xcode
+                    1171 Xcode
+                    1172 Xcode
+                    1173 Xcode
+                    1174 Xcode
+                    1175 Xcode
+                    1176 Xcode
+                    1177 Xcode
+                    1178 Xcode
+                    1179 Xcode
+                    1180 Xcode
+                    1181 Xcode
+                    1182 Xcode
+                    1183 Xcode
+                    1184 Xcode
+                    1278 Xcode
+                    1279 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1281 Xcode
+                    1282 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1284 Xcode
+                    1285 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1287 Xcode
+                    1288 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1290 Xcode
+                    1291 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1293 Xcode
+                    1294 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1296 Xcode
+                    1297 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1299 Xcode
+                    1300 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1302 Xcode
+                    1303 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1305 Xcode
+                    1306 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1308 Xcode
+                    1309 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1311 Xcode
+                    1312 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1314 Xcode
+                    1315 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1317 Xcode
+                    1318 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1320 Xcode
+                    1321 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1323 Xcode
+                    1324 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1326 Xcode
+                    1327 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1329 Xcode
+                    1330 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1332 Xcode
+                    1333 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1335 Xcode
+                    1336 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1338 Xcode
+                    1339 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1341 Xcode
+                    1342 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1344 Xcode
+                    1345 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1347 Xcode
+                    1348 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1350 Xcode
+                    1351 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1353 Xcode
+                    1354 2019-04-26 08:54:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1356 Xcode
+                    1357 2019-04-26 08:54:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1359 Xcode
+                    1360 2019-04-26 08:54:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1362 Xcode
+                    1363 2019-04-26 08:54:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1365 Xcode
+                    1366 2019-04-26 08:54:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1368 Xcode
+                    1369 2019-04-26 08:54:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1371 Xcode
+                    1372 2019-04-26 08:54:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1374 Xcode
+                    1375 2019-04-26 08:54:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1377 Xcode
+                    1378 2019-04-26 08:54:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1380 Xcode
+                    1381 2019-04-26 08:54:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1383 Xcode
+                    1384 2019-04-26 08:54:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1386 Xcode
+                    1387 2019-04-26 08:54:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1389 Xcode
+                    1390 2019-04-26 08:54:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1392 Xcode
+                    1393 2019-04-26 08:54:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1395 Xcode
+                    1396 2019-04-26 08:54:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1398 Xcode
+                    1399 2019-04-26 08:54:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1401 Xcode
+                    1402 2019-04-26 08:54:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1406 Xcode
+                    1407 Xcode
+                    1408 Xcode
+                    1409 Xcode
+                    1410 Xcode
+                    1411 Xcode
+                    1412 Xcode
+                    1413 Xcode
+                    1414 Xcode
+                    1415 Xcode
+                    1416 Xcode
+                    1417 Xcode
+                    1418 Xcode
+                    1419 Xcode
+                    1420 Xcode
+                    1421 Xcode
+                    1422 Xcode
+                    1423 Xcode
+                    1424 Xcode
+                    1425 Xcode
+                    1426 Xcode
+                    1427 Xcode
+                    1428 Xcode
+                    1429 Xcode
+                    1430 Xcode
+                    1431 Xcode
+                    1432 Xcode
+                    1433 Xcode
+                    1434 Xcode
+                    1435 Xcode
+                    1436 Xcode
+                    1437 Xcode
+                    1438 Xcode
+                    1439 Xcode
+                    1440 Xcode
+                    1441 Xcode
+                    1442 Xcode
+                    1443 Xcode
+                    1444 Xcode
+                    1445 Xcode
+                    1446 Xcode
+                    1447 2019-04-26 08:54:03 +0000  Running /usr/bin/xattr '-crs' '/var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app'
+                    1450 Xcode
+                    1452 Xcode
+                    1453 XcodeDistPipeline
+                    1454 2019-04-26 08:54:03 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/Alamofire.framework: replacing existing signature
+                    1455 XcodeDistPipeline
+                    1457 Xcode
+                    1459 Xcode
+                    1460 XcodeDistPipeline
+                    1461 XcodeDistPipeline
+                    1462 XcodeDistPipeline
+                    1464 Xcode
+                    1466 Xcode
+                    1467 XcodeDistPipeline
+                    1468 XcodeDistPipeline
+                    1469 XcodeDistPipeline
+                    1471 Xcode
+                    1473 Xcode
+                    1474 XcodeDistPipeline
+                    1475 2019-04-26 08:54:03 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/Charts.framework: replacing existing signature
+                    1476 XcodeDistPipeline
+                    1478 Xcode
+                    1480 Xcode
+                    1481 XcodeDistPipeline
+                    1482 XcodeDistPipeline
+                    1484 Xcode
+                    1486 Xcode
+                    1487 XcodeDistPipeline
+                    1488 XcodeDistPipeline
+                    1489 XcodeDistPipeline
+                    1491 Xcode
+                    1493 Xcode
+                    1494 XcodeDistPipeline
+                    1495 XcodeDistPipeline
+                    1497 Xcode
+                    1499 Xcode
+                    1500 XcodeDistPipeline
+                    1501 2019-04-26 08:54:03 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/JWTDecode.framework: replacing existing signature
+                    1502 XcodeDistPipeline
+                    1504 Xcode
+                    1506 Xcode
+                    1507 XcodeDistPipeline
+                    1508 2019-04-26 08:54:04 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/Kingfisher.framework: replacing existing signature
+                    1509 XcodeDistPipeline
+                    1511 Xcode
+                    1513 Xcode
+                    1514 XcodeDistPipeline
+                    1515 XcodeDistPipeline
+                    1516 XcodeDistPipeline
+                    1518 Xcode
+                    1520 Xcode
+                    1521 XcodeDistPipeline
+                    1522 2019-04-26 08:54:04 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/ObjectMapper.framework: replacing existing signature
+                    1523 XcodeDistPipeline
+                    1525 Xcode
+                    1527 Xcode
+                    1528 XcodeDistPipeline
+                    1529 XcodeDistPipeline
+                    1530 XcodeDistPipeline
+                    1532 Xcode
+                    1534 Xcode
+                    1535 XcodeDistPipeline
+                    1536 2019-04-26 08:54:04 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/Protobuf.framework: replacing existing signature
+                    1537 XcodeDistPipeline
+                    1539 Xcode
+                    1541 Xcode
+                    1542 XcodeDistPipeline
+                    1543 2019-04-26 08:54:04 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/Realm.framework: replacing existing signature
+                    1544 XcodeDistPipeline
+                    1546 Xcode
+                    1548 Xcode
+                    1549 XcodeDistPipeline
+                    1550 2019-04-26 08:54:04 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/RealmSwift.framework: replacing existing signature
+                    1551 XcodeDistPipeline
+                    1553 Xcode
+                    1555 Xcode
+                    1556 XcodeDistPipeline
+                    1557 2019-04-26 08:54:04 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/RxSwift.framework: replacing existing signature
+                    1558 XcodeDistPipeline
+                    1560 Xcode
+                    1562 Xcode
+                    1563 XcodeDistPipeline
+                    1564 2019-04-26 08:54:04 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/SwiftReorder.framework: replacing existing signature
+                    1565 XcodeDistPipeline
+                    1567 Xcode
+                    1569 Xcode
+                    1570 XcodeDistPipeline
+                    1571 XcodeDistPipeline
+                    1573 Xcode
+                    1575 Xcode
+                    1576 XcodeDistPipeline
+                    1577 XcodeDistPipeline
+                    1579 Xcode
+                    1581 Xcode
+                    1582 XcodeDistPipeline
+                    1583 2019-04-26 08:54:05 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/leveldb.framework: replacing existing signature
+                    1584 XcodeDistPipeline
+                    1586 Xcode
+                    1588 Xcode
+                    1589 XcodeDistPipeline
+                    1590 XcodeDistPipeline
+                    1591 XcodeDistPipeline
+                    1593 Xcode
+                    1595 Xcode
+                    1596 XcodeDistPipeline
+                    1597 XcodeDistPipeline
+                    1598 XcodeDistPipeline
+                    1600 Xcode
+                    1602 Xcode
+                    1603 XcodeDistPipeline
+                    1604 2019-04-26 08:54:05 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/libswiftCore.dylib: replacing existing signature
+                    1605 XcodeDistPipeline
+                    1607 Xcode
+                    1609 Xcode
+                    1610 XcodeDistPipeline
+                    1611 XcodeDistPipeline
+                    1612 XcodeDistPipeline
+                    1614 Xcode
+                    1616 Xcode
+                    1617 XcodeDistPipeline
+                    1618 2019-04-26 08:54:05 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/libswiftCoreData.dylib: replacing existing signature
+                    1619 XcodeDistPipeline
+                    1621 Xcode
+                    1623 Xcode
+                    1624 XcodeDistPipeline
+                    1625 XcodeDistPipeline
+                    1626 XcodeDistPipeline
+                    1628 Xcode
+                    1630 Xcode
+                    1631 XcodeDistPipeline
+                    1632 XcodeDistPipeline
+                    1633 XcodeDistPipeline
+                    1635 Xcode
+                    1637 Xcode
+                    1638 XcodeDistPipeline
+                    1639 XcodeDistPipeline
+                    1640 XcodeDistPipeline
+                    1642 Xcode
+                    1644 Xcode
+                    1645 XcodeDistPipeline
+                    1646 XcodeDistPipeline
+                    1647 XcodeDistPipeline
+                    1649 Xcode
+                    1651 Xcode
+                    1652 XcodeDistPipeline
+                    1653 XcodeDistPipeline
+                    1654 XcodeDistPipeline
+                    1656 Xcode
+                    1658 Xcode
+                    1659 XcodeDistPipeline
+                    1660 2019-04-26 08:54:06 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/libswiftDarwin.dylib: replacing existing signature
+                    1661 XcodeDistPipeline
+                    1663 Xcode
+                    1665 Xcode
+                    1666 XcodeDistPipeline
+                    1667 2019-04-26 08:54:06 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/libswiftDispatch.dylib: replacing existing signature
+                    1668 XcodeDistPipeline
+                    1670 Xcode
+                    1672 Xcode
+                    1673 XcodeDistPipeline
+                    1674 XcodeDistPipeline
+                    1675 XcodeDistPipeline
+                    1677 Xcode
+                    1679 Xcode
+                    1680 XcodeDistPipeline
+                    1681 2019-04-26 08:54:06 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/libswiftMapKit.dylib: replacing existing signature
+                    1682 XcodeDistPipeline
+                    1684 Xcode
+                    1686 Xcode
+                    1687 XcodeDistPipeline
+                    1688 2019-04-26 08:54:07 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/libswiftMetal.dylib: replacing existing signature
+                    1689 XcodeDistPipeline
+                    1691 Xcode
+                    1693 Xcode
+                    1694 XcodeDistPipeline
+                    1695 XcodeDistPipeline
+                    1696 XcodeDistPipeline
+                    1698 Xcode
+                    1700 Xcode
+                    1701 XcodeDistPipeline
+                    1702 XcodeDistPipeline
+                    1703 XcodeDistPipeline
+                    1705 Xcode
+                    1707 Xcode
+                    1708 XcodeDistPipeline
+                    1709 2019-04-26 08:54:07 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/libswiftUIKit.dylib: replacing existing signature
+                    1710 XcodeDistPipeline
+                    1712 Xcode
+                    1714 Xcode
+                    1715 XcodeDistPipeline
+                    1716 2019-04-26 08:54:07 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/libswiftos.dylib: replacing existing signature
+                    1717 XcodeDistPipeline
+                    1719 Xcode
+                    1721 Xcode
+                    1722 XcodeDistPipeline
+                    1723 2019-04-26 08:54:07 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/libswiftsimd.dylib: replacing existing signature
+                    1724 XcodeDistPipeline
+                    1726 Xcode
+                    1728 Xcode
+                    1729 XcodeDistPipeline
+                    1730 2019-04-26 08:54:07 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app/Frameworks/nanopb.framework: replacing existing signature
+                    1731 XcodeDistPipeline
+                    1733 Xcode
+                    1740 Xcode
+                    1741 XcodeDistPipeline
+                    1742 2019-04-26 08:54:07 +0000  /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root/Payload/Carrefour Cuali.app: replacing existing signature
+                    1743 XcodeDistPipeline
+                    1789 XcodeDistPipeline
+                    1790 2019-04-26 08:54:08 +0000  >>> Copying /var/folders/jh/vlpbl7rj521b9qy2ljdnglz063ffsf/T/XcodeDistPipeline.~~~oEBHuf/Root 
+            apks.Carrefour Cuali 2019-05-03 09-19-21  (400 usages found)
+                Packaging.log  (400 usages found)
+                    18 Xcode
+                    19 2019-05-03 07:19:03 +0000  >>> Copying /Users/juanc.zarate/Library/Developer/Xcode/Archives/2019-05-03/Carrefour Cuali 03-05-2019, 08.57.xcarchive/Products/Applications/Carrefour Cuali.app 
+                    1144 Xcode
+                    1145 Xcode
+                    1146 Xcode
+                    1147 Xcode
+                    1148 Xcode
+                    1149 Xcode
+                    1150 Xcode
+                    1151 Xcode
+                    1152 Xcode
+                    1153 Xcode
+                    1154 Xcode
+                    1155 Xcode
+                    1156 Xcode
+                    1157 Xcode
+                    1158 Xcode
+                    1159 Xcode
+                    1160 Xcode
+                    1161 Xcode
+                    1162 Xcode
+                    1163 Xcode
+                    1164 Xcode
+                    1165 Xcode
+                    1166 Xcode
+                    1167 Xcode
+                    1168 Xcode
+                    1169 Xcode
+                    1170 Xcode
+                    1171 Xcode
+                    1172 Xcode
+                    1173 Xcode
+                    1174 Xcode
+                    1175 Xcode
+                    1176 Xcode
+                    1177 Xcode
+                    1178 Xcode
+                    1179 Xcode
+                    1180 Xcode
+                    1181 Xcode
+                    1182 Xcode
+                    1183 Xcode
+                    1184 Xcode
+                    1278 Xcode
+                    1279 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1281 Xcode
+                    1282 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1284 Xcode
+                    1285 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1287 Xcode
+                    1288 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1290 Xcode
+                    1291 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1293 Xcode
+                    1294 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1296 Xcode
+                    1297 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1299 Xcode
+                    1300 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1302 Xcode
+                    1303 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1305 Xcode
+                    1306 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1308 Xcode
+                    1309 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1311 Xcode
+                    1312 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1314 Xcode
+                    1315 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1317 Xcode
+                    1318 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1320 Xcode
+                    1321 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1323 Xcode
+                    1324 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1326 Xcode
+                    1327 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1329 Xcode
+                    1330 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1332 Xcode
+                    1333 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1335 Xcode
+                    1336 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1338 Xcode
+                    1339 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1340 Xcode
+                    1341 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1343 Xcode
+                    1344 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1345 Xcode
+                    1346 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1348 Xcode
+                    1349 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1350 Xcode
+                    1351 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1353 Xcode
+                    1354 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1355 Xcode
+                    1356 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1358 Xcode
+                    1359 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1360 Xcode
+                    1361 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1363 Xcode
+                    1364 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1365 Xcode
+                    1366 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1368 Xcode
+                    1369 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1370 Xcode
+                    1371 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1373 Xcode
+                    1374 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1375 Xcode
+                    1376 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1378 Xcode
+                    1379 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1380 Xcode
+                    1381 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1383 Xcode
+                    1384 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1385 Xcode
+                    1386 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1388 Xcode
+                    1389 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1390 Xcode
+                    1391 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1393 Xcode
+                    1394 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1395 Xcode
+                    1396 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1398 Xcode
+                    1399 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1400 Xcode
+                    1401 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1403 Xcode
+                    1404 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1405 Xcode
+                    1406 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1408 Xcode
+                    1409 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1410 Xcode
+                    1411 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1413 Xcode
+                    1414 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1415 Xcode
+                    1416 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1418 Xcode
+                    1419 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1420 Xcode
+                    1421 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1423 Xcode
+                    1424 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1425 Xcode
+                    1426 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1428 Xcode
+                    1429 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1430 Xcode
+                    1431 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1433 Xcode
+                    1434 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1435 Xcode
+                    1436 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+                    1438 Xcode
+                    1439 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1441 Xcode
+                    1442 2019-05-03 07:19:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+                    1446 Xcode
+                    1447 Xcode
+                    1448 Xcode
+                    1449 Xcode
+                    1450 Xcode
+                    1451 Xcode
+                    1452 Xcode
+                    1453 Xcode
+                    1454 Xcode
+                    1455 Xcode
+                    1456 Xcode
+                    1457 Xcode
+                    1458 Xcode
+                    1459 Xcode
+                    1460 Xcode
+                    1461 Xcode
+                    1462 Xcode
+                    1463 Xcode
+                    1464 Xcode
+                    1465 Xcode
+                    1466 Xcode
+                    1467 Xcode
+                    1468 Xcode
+                    1469 Xcode
+                    1470 Xcode
+                    1471 Xcode
+                    1472 Xcode
+                    1473 Xcode
+                    1474 Xcode
+                    1475 Xcode
+                    1476 Xcode
+                    1477 Xcode
+                    1478 Xcode
+                    1479 Xcode
+                    1480 Xcode
+                    1481 Xcode
+                    1482 Xcode
+                    1483 Xcode
+                    1484 Xcode
+                    1485 Xcode
+                    1486 Xcode
+                    1487 2019-05-03 07:19:04 +0000  Running /usr/bin/xattr '-crs' '/var/folders/9k/yyzh0_z51lx33jn3xzhvprkc0000gn/T/XcodeDistPipeline.~~~jIn8Ks/Root/Payload/Carrefour Cuali.app'
+                    1490 Xcode
+                    1492 Xcode
+                    1493 XcodeDistPipeline
+                    1494 XcodeDistPipeline
+                    1496 Xcode
+                    1498 Xcode
+                    1499 XcodeDistPipeline
+                    1500 XcodeDistPipeline
+                    1502 Xcode
+                    1504 Xcode
+                    1505 XcodeDistPipeline
+                    1506 XcodeDistPipeline
+                    1508 Xcode
+                    1510 Xcode
+                    1511 XcodeDistPipeline
+                    1512 XcodeDistPipeline
+                    1514 Xcode
+                    1516 Xcode
+                    1517 XcodeDistPipeline
+                    1518 XcodeDistPipeline
+                    1520 Xcode
+                    1522 Xcode
+                    1523 XcodeDistPipeline
+                    1524 XcodeDistPipeline
+                    1526 Xcode
+                    1528 Xcode
+                    1529 XcodeDistPipeline
+                    1530 XcodeDistPipeline
+                    1532 Xcode
+                    1534 Xcode
+                    1535 XcodeDistPipeline
+                    1536 XcodeDistPipeline
+                    1538 Xcode
+                    1540 Xcode
+                    1541 XcodeDistPipeline
+                    1542 XcodeDistPipeline
+                    1544 Xcode
+                    1546 Xcode
+                    1547 XcodeDistPipeline
+                    1548 XcodeDistPipeline
+                    1550 Xcode
+                    1552 Xcode
+                    1553 XcodeDistPipeline
+                    1554 XcodeDistPipeline
+                    1556 Xcode
+                    1558 Xcode
+                    1559 XcodeDistPipeline
+                    1560 XcodeDistPipeline
+                    1562 Xcode
+                    1564 Xcode
+                    1565 XcodeDistPipeline
+                    1566 XcodeDistPipeline
+                    1568 Xcode
+                    1570 Xcode
+                    1571 XcodeDistPipeline
+                    1572 XcodeDistPipeline
+                    1574 Xcode
+                    1576 Xcode
+                    1577 XcodeDistPipeline
+                    1578 XcodeDistPipeline
+                    1580 Xcode
+                    1582 Xcode
+                    1583 XcodeDistPipeline
+                    1584 XcodeDistPipeline
+                    1586 Xcode
+                    1588 Xcode
+                    1589 XcodeDistPipeline
+                    1590 XcodeDistPipeline
+                    1592 Xcode
+                    1594 Xcode
+                    1595 XcodeDistPipeline
+                    1596 XcodeDistPipeline
+                    1598 Xcode
+                    1600 Xcode
+                    1601 XcodeDistPipeline
+                    1602 XcodeDistPipeline
+                    1604 Xcode
+                    1606 Xcode
+                    1607 XcodeDistPipeline
+                    1608 XcodeDistPipeline
+                    1610 Xcode
+                    1612 Xcode
+                    1613 XcodeDistPipeline
+                    1614 XcodeDistPipeline
+                    1615 XcodeDistPipeline
+                    1617 Xcode
+                    1619 Xcode
+                    1620 XcodeDistPipeline
+                    1621 XcodeDistPipeline
+                    1622 XcodeDistPipeline
+                    1624 Xcode
+                    1626 Xcode
+                    1627 XcodeDistPipeline
+                    1628 2019-05-03 07:19:07 +0000  /var/folders/9k/yyzh0_z51lx33jn3xzhvprkc0000gn/T/XcodeDistPipeline.~~~jIn8Ks/Root/Payload/Carrefour Cuali.app/Frameworks/libswiftCore.dylib: replacing existing signature
+                    1629 XcodeDistPipeline
+                    1631 Xcode
+                    1633 Xcode
+                    1634 XcodeDistPipeline
+                    1635 XcodeDistPipeline
+                    1636 XcodeDistPipeline
+                    1638 Xcode
+                    1640 Xcode
+                    1641 XcodeDistPipeline
+                    1642 2019-05-03 07:19:07 +0000  /var/folders/9k/yyzh0_z51lx33jn3xzhvprkc0000gn/T/XcodeDistPipeline.~~~jIn8Ks/Root/Payload/Carrefour Cuali.app/Frameworks/libswiftCoreData.dylib: replacing existing signature
+                    1643 XcodeDistPipeline
+                    1645 Xcode
+                    1647 Xcode
+                    1648 XcodeDistPipeline
+                    1649 XcodeDistPipeline
+                    1650 XcodeDistPipeline
+                    1652 Xcode
+                    1654 Xcode
+                    1655 XcodeDistPipeline
+                    1656 XcodeDistPipeline
+                    1657 XcodeDistPipeline
+                    1659 Xcode
+                    1661 Xcode
+                    1662 XcodeDistPipeline
+                    1663 XcodeDistPipeline
+                    1664 XcodeDistPipeline
+                    1666 Xcode
+                    1668 Xcode
+                    1669 XcodeDistPipeline
+                    1670 XcodeDistPipeline
+                    1671 XcodeDistPipeline
+                    1673 Xcode
+                    1675 Xcode
+                    1676 XcodeDistPipeline
+                    1677 XcodeDistPipeline
+                    1678 XcodeDistPipeline
+                    1680 Xcode
+                    1682 Xcode
+                    1683 XcodeDistPipeline
+                    1684 2019-05-03 07:19:08 +0000  /var/folders/9k/yyzh0_z51lx33jn3xzhvprkc0000gn/T/XcodeDistPipeline.~~~jIn8Ks/Root/Payload/Carrefour Cuali.app/Frameworks/libswiftDarwin.dylib: replacing existing signature
+                    1685 XcodeDistPipeline
+                    1687 Xcode
+                    1689 Xcode
+                    1690 XcodeDistPipeline
+                    1691 2019-05-03 07:19:08 +0000  /var/folders/9k/yyzh0_z51lx33jn3xzhvprkc0000gn/T/XcodeDistPipeline.~~~jIn8Ks/Root/Payload/Carrefour Cuali.app/Frameworks/libswiftDispatch.dylib: replacing existing signature
+                    1692 XcodeDistPipeline
+                    1694 Xcode
+                    1696 Xcode
+                    1697 XcodeDistPipeline
+                    1698 XcodeDistPipeline
+                    1699 XcodeDistPipeline
+                    1701 Xcode
+                    1703 Xcode
+                    1704 XcodeDistPipeline
+                    1705 2019-05-03 07:19:08 +0000  /var/folders/9k/yyzh0_z51lx33jn3xzhvprkc0000gn/T/XcodeDistPipeline.~~~jIn8Ks/Root/Payload/Carrefour Cuali.app/Frameworks/libswiftMapKit.dylib: replacing existing signature
+                    1706 XcodeDistPipeline
+                    1708 Xcode
+                    1710 Xcode
+                    1711 XcodeDistPipeline
+                    1712 2019-05-03 07:19:08 +0000  /var/folders/9k/yyzh0_z51lx33jn3xzhvprkc0000gn/T/XcodeDistPipeline.~~~jIn8Ks/Root/Payload/Carrefour Cuali.app/Frameworks/libswiftMetal.dylib: replacing existing signature
+                    1713 XcodeDistPipeline
+                    1715 Xcode
+                    1717 Xcode
+                    1718 XcodeDistPipeline
+                    1719 XcodeDistPipeline
+                    1720 XcodeDistPipeline
+                    1722 Xcode
+                    1724 Xcode
+                    1725 XcodeDistPipeline
+                    1726 XcodeDistPipeline
+                    1727 XcodeDistPipeline
+                    1729 Xcode
+                    1731 Xcode
+                    1732 XcodeDistPipeline
+                    1733 2019-05-03 07:19:08 +0000  /var/folders/9k/yyzh0_z51lx33jn3xzhvprkc0000gn/T/XcodeDistPipeline.~~~jIn8Ks/Root/Payload/Carrefour Cuali.app/Frameworks/libswiftUIKit.dylib: replacing existing signature
+                    1734 XcodeDistPipeline
+                    1736 Xcode
+                    1738 Xcode
+                    1739 XcodeDistPipeline
+                    1740 2019-05-03 07:19:09 +0000  /var/folders/9k/yyzh0_z51lx33jn3xzhvprkc0000gn/T/XcodeDistPipeline.~~~jIn8Ks/Root/Payload/Carrefour Cuali.app/Frameworks/libswiftos.dylib: replacing existing signature
+                    1741 XcodeDistPipeline
+                    1743 Xcode
+                    1745 Xcode
+                    1746 XcodeDistPipeline
+                    1747 2019-05-03 07:19:09 +0000  /var/folders/9k/yyzh0_z51lx33jn3xzhvprkc0000gn/T/XcodeDistPipeline.~~~jIn8Ks/Root/Payload/Carrefour Cuali.app/Frameworks/libswiftsimd.dylib: replacing existing signature
+                    1748 XcodeDistPipeline
+                    1750 Xcode
+                    1752 Xcode
+                    1753 XcodeDistPipeline
+                    1754 XcodeDistPipeline
+                    1756 Xcode
+                    1763 Xcode
+                    1764 XcodeDistPipeline
+                    1765 2019-05-03 07:19:09 +0000  /var/folders/9k/yyzh0_z51lx33jn3xzhvprkc0000gn/T/XcodeDistPipeline.~~~jIn8Ks/Root/Payload/Carrefour Cuali.app: replacing existing signature
+                    1766 XcodeDistPipeline
+                    1812 XcodeDistPipeline
+                    1813 2019-05-03 07:19:10 +0000  >>> Copying /var/folders/9k/yyzh0_z51lx33jn3xzhvprkc0000gn/T/XcodeDistPipeline.~~~jIn8Ks/Root 
+            src  (480 usages found)
+                log  (480 usages found)
+                    296 2019-05-04 15:33:44:435 - [Xcode] User defaults from command line:
+                    297 2019-05-04 15:33:44:435 - [Xcode]     IDEDerivedDataPathOverride = /Users/juanc.zarate/Library/Developer/Xcode/DerivedData/WebDriverAgent-brdadhpuduowllgivnnvuygpwhzy
+                    298 2019-05-04 15:33:44:436 - [Xcode]
+                    299 2019-05-04 15:33:44:436 - [Xcode] Build settings from command line:
+                    300 2019-05-04 15:33:44:436 - [Xcode]     COMPILER_INDEX_STORE_ENABLE = NO
+                    301 2019-05-04 15:33:44:436 - [Xcode]
+                    305 2019-05-04 15:33:44:458 - [Xcode]     GCC_TREAT_WARNINGS_AS_ERRORS = 0
+                    306 2019-05-04 15:33:44:458 - [Xcode]     IPHONEOS_DEPLOYMENT_TARGET = 12.2
+                    307 2019-05-04 15:33:44:458 - [Xcode]
+                    308 2019-05-04 15:33:44:458 - [Xcode]
+                    534 2019-05-04 15:33:45:653 - [Xcode] note: Using new build system
+                    535 2019-05-04 15:33:45:653 - [Xcode]
+                    536 2019-05-04 15:33:45:653 - [Xcode]
+                    537 2019-05-04 15:33:45:657 - [Xcode] note: Planning build
+                    538 2019-05-04 15:33:45:657 - [Xcode]
+                    543 2019-05-04 15:33:45:845 - [Xcode] note: Using build description from disk
+                    544 2019-05-04 15:33:45:845 - [Xcode]
+                    554 2019-05-04 15:33:46:002 - [Xcode]
+                    555 2019-05-04 15:33:46:002 - [Xcode]
+                    556 2019-05-04 15:33:46:005 - [Xcode] ** TEST BUILD SUCCEEDED **
+                    557 2019-05-04 15:33:46:006 - [Xcode]
+                    558 2019-05-04 15:33:46:006 - [Xcode]
+                    559 xcodebuild
+                    560 2019-05-04 15:33:46:027 - [Xcode] 2019-05-04 17:33:46.026 xcodebuild[17180:177682]  IDETestOperationsObserverDebug: Writing diagnostic log for test session to:
+                    561 Xcode
+                    562 2019-05-04 15:33:46:027 - [Xcode]
+                    563 Xcode
+                    564 2019-05-04 15:33:46:028 - [Xcode] 		deviceSerialNumber:         C39Y9K50KPG1
+                    565 2019-05-04 15:33:46:028 - [Xcode] 		identifier:                 00008020-0013056136E1002E
+                    566 2019-05-04 15:33:46:028 - [Xcode] 		deviceClass:                iPhone
+                    567 2019-05-04 15:33:46:028 - [Xcode] 		deviceName:                 iPhone de Tienda
+                    568 2019-05-04 15:33:46:028 - [Xcode] 		deviceIdentifier:           00008020-0013056136E1002E
+                    569 2019-05-04 15:33:46:028 - [Xcode] 		productVersion:             12.2
+                    570 2019-05-04 15:33:46:028 - [Xcode] 		buildVersion:               16E227
+                    571 2019-05-04 15:33:46:028 - [Xcode] 		deviceSoftwareVersion:      12.2 (16E227)
+                    572 2019-05-04 15:33:46:028 - [Xcode] 		deviceArchitecture:         arm64e
+                    573 2019-05-04 15:33:46:028 - [Xcode] 		deviceTotalCapacity:        59367043072
+                    574 2019-05-04 15:33:46:028 - [Xcode] 		deviceAvailableCapacity:    50968850432
+                    575 2019-05-04 15:33:46:028 - [Xcode] 		deviceIsTransient:          NO
+                    576 2019-05-04 15:33:46:029 - [Xcode] 		ignored:                    NO
+                    577 2019-05-04 15:33:46:029 - [Xcode] 		deviceIsBusy:               NO
+                    578 2019-05-04 15:33:46:029 - [Xcode] 		deviceIsPaired:             YES
+                    579 2019-05-04 15:33:46:029 - [Xcode] 		deviceIsActivated:          YES
+                    580 2019-05-04 15:33:46:029 - [Xcode] 		deviceActivationState:      Activated
+                    581 2019-05-04 15:33:46:029 - [Xcode] 		isPasscodeLocked:           NO
+                    582 2019-05-04 15:33:46:029 - [Xcode] 		deviceType:                 <DVTDeviceType:0x7f9fbdecf960 Xcode.DeviceType.iPhone>
+                    583 2019-05-04 15:33:46:029 - [Xcode] 		supportedDeviceFamilies:    (
+                    584 2019-05-04 15:33:46:029 - [Xcode]     1
+                    585 2019-05-04 15:33:46:029 - [Xcode] )
+                    586 2019-05-04 15:33:46:029 - [Xcode] 		applications:              (null)
+                    587 2019-05-04 15:33:46:030 - [Xcode] 		provisioningProfiles:      (null)
+                    588 2019-05-04 15:33:46:030 - [Xcode] 		hasInternalSupport:        NO
+                    589 2019-05-04 15:33:46:030 - [Xcode] 		isSupportedOS:             YES
+                    590 2019-05-04 15:33:46:030 - [Xcode] 		developerDiskMountError:   (null)
+                    591 2019-05-04 15:33:46:030 - [Xcode] (null)
+                    592 2019-05-04 15:33:46:030 - [Xcode] 	bootArgs:                  (null)
+                    593 2019-05-04 15:33:46:030 - [Xcode] 		nextBootArgs:              (null)
+                    594 2019-05-04 15:33:46:030 - [Xcode] 		connected:                 yes
+                    595 2019-05-04 15:33:46:030 - [Xcode] 		isWirelessEnabled:         no
+                    596 2019-05-04 15:33:46:030 - [Xcode] 		connectionType:            direct
+                    597 2019-05-04 15:33:46:030 - [Xcode] 		hostname:                  (null)
+                    598 2019-05-04 15:33:46:030 - [Xcode] 		bonjourServiceName:        58:6b:14:a6:bb:58@fe80::5a6b:14ff:fea6:bb58._apple-mobdev2._tcp.local.
+                    599 2019-05-04 15:33:46:030 - [Xcode] 		} (12.2 (16E227))
+                    600 2019-05-04 15:33:46:031 - [Xcode]
+                    635 Xcode
+                    636 2019-05-04 15:33:46:167 - [Xcode]
+                    651 Xcode
+                    1365 Xcode
+                    1366 2019-05-04 15:33:48:422 - [Xcode]
+                    2779 2019-05-04 15:33:51:384 - [Xcode] 2019-05-04 17:33:53.106753+0200 WebDriverAgentRunner-Runner[993:275707] Running tests...
+                    2780 2019-05-04 15:33:51:384 - [Xcode]
+                    2859 Xcode
+                    2860 Xcode
+                    2861 Xcode
+                    2862 Xcode
+                    2863 Xcode
+                    2864 2019-05-04 15:33:51:481 - [Xcode]
+                    2937 2019-05-04 15:33:51:913 - [Xcode] Test Suite 'All tests' started at 2019-05-04 17:33:53.635
+                    2938 2019-05-04 15:33:51:913 - [Xcode]
+                    2939 2019-05-04 15:33:51:913 - [Xcode] Test Suite 'WebDriverAgentRunner.xctest' started at 2019-05-04 17:33:53.635
+                    2940 2019-05-04 15:33:51:913 - [Xcode] Test Suite 'UITestingUITests' started at 2019-05-04 17:33:53.635
+                    2941 2019-05-04 15:33:51:913 - [Xcode]
+                    2942 2019-05-04 15:33:51:930 - [Xcode] Test Case '-[UITestingUITests testRunner]' started.
+                    2943 2019-05-04 15:33:51:930 - [Xcode]     t =     0.00s Start Test at 2019-05-04 17:33:53.652
+                    2944 2019-05-04 15:33:51:930 - [Xcode]
+                    2946 2019-05-04 15:33:51:933 - [Xcode]     t =     0.00s Set Up
+                    2947 2019-05-04 15:33:51:933 - [Xcode]
+                    2948 2019-05-04 15:33:51:939 - [Xcode] 2019-05-04 17:33:53.661879+0200 WebDriverAgentRunner-Runner[993:275707] Built at May  3 2019 21:58:45
+                    2949 2019-05-04 15:33:51:939 - [Xcode]
+                    2951 2019-05-04 15:33:51:954 - [Xcode] 2019-05-04 17:33:53.676616+0200 WebDriverAgentRunner-Runner[993:275707] ServerURLHere->http://192.168.1.45:8100<-ServerURLHere
+                    2952 2019-05-04 15:33:51:954 - [Xcode]
+                    2953 2019-05-04 15:33:51:954 - [Xcode] 2019-05-04 17:33:53.677388+0200 WebDriverAgentRunner-Runner[993:275729] Using singleton test manager
+                    2954 2019-05-04 15:33:51:954 - [Xcode]
+                    3015 2019-05-04 15:33:52:611 - [Xcode]     t =     0.68s Open es.Tienda.crfmobile.quali
+                    3016 2019-05-04 15:33:52:611 - [Xcode]
+                    3017 2019-05-04 15:33:52:612 - [Xcode]     t =     0.68s     Launch es.Tienda.crfmobile.quali
+                    3018 2019-05-04 15:33:52:613 - [Xcode]
+                    3078 2019-05-04 15:33:52:751 - [Xcode]     t =     0.82s         Wait for accessibility to load
+                    3079 2019-05-04 15:33:52:751 - [Xcode]
+                    3170 2019-05-04 15:33:52:861 - [Xcode]     t =     0.93s         Wait for es.Tienda.crfmobile.quali to idle
+                    3171 2019-05-04 15:33:52:861 - [Xcode]
+                    4300 2019-05-04 15:33:54:886 - [Xcode]     t =     2.96s Find the Application 'com.apple.springboard'
+                    4301 2019-05-04 15:33:54:886 - [Xcode]
+                    4302 2019-05-04 15:33:54:887 - [Xcode]     t =     2.96s     Snapshot accessibility hierarchy for app with pid 55
+                    4303 2019-05-04 15:33:54:887 - [Xcode]
+                    4329 showXcodeLog
+                    4354 2019-05-04 15:33:55:132 - [Xcode]     t =     3.20s Find the Application 'com.apple.springboard'
+                    4355 2019-05-04 15:33:55:132 - [Xcode]     t =     3.20s     Snapshot accessibility hierarchy for app with pid 55
+                    4356 2019-05-04 15:33:55:132 - [Xcode]
+                    4433 2019-05-04 15:33:55:287 - [Xcode]     t =     3.36s Checking existence of `StatusBar`
+                    4434 2019-05-04 15:33:55:287 - [Xcode]     t =     3.36s     Snapshot accessibility hierarchy for app with pid 55
+                    4435 2019-05-04 15:33:55:287 - [Xcode]
+                    4528 2019-05-04 15:33:55:410 - [Xcode]     t =     3.48s     Find: Descendants matching type StatusBar
+                    4529 2019-05-04 15:33:55:411 - [Xcode]
+                    4549 2019-05-04 15:33:55:433 - [Xcode]     t =     3.50s Snapshot accessibility hierarchy for app with pid 55
+                    4550 2019-05-04 15:33:55:433 - [Xcode]
+                    4666 showXcodeLog
+                    4692 showXcodeLog
+                    4700 showXcodeLog
+                    4708 showXcodeLog
+                    4717 showXcodeLog
+                    4725 showXcodeLog
+                    4733 showXcodeLog
+                    4741 showXcodeLog
+                    4749 showXcodeLog
+                    4757 showXcodeLog
+                    4765 showXcodeLog
+                    4773 showXcodeLog
+                    4781 showXcodeLog
+                    4789 showXcodeLog
+                    4797 showXcodeLog
+                    4805 showXcodeLog
+                    4813 showXcodeLog
+                    4821 showXcodeLog
+                    4829 showXcodeLog
+                    4837 showXcodeLog
+                    4845 showXcodeLog
+                    4853 showXcodeLog
+                    4861 showXcodeLog
+                    4869 showXcodeLog
+                    4877 showXcodeLog
+                    4885 showXcodeLog
+                    4900 2019-05-04 15:33:55:977 - [Xcode]     t =     4.05s Terminate es.Tienda.crfmobile.quali:996
+                    4901 2019-05-04 15:33:55:977 - [Xcode]
+                    5166 2019-05-04 15:33:57:069 - [XCUITest] Shutting down xcodebuild process (pid 17180)
+                    5167 2019-05-04 15:33:57:070 - [Xcode] ** BUILD INTERRUPTED **
+                    5168 2019-05-04 15:33:57:070 - [Xcode]
+                    5169 2019-05-04 15:33:57:079 - [XCUITest] xcodebuild exited with code 'null' and signal 'SIGTERM'
+                    5170 Xcode
+                    5171 Xcode
+                    5172 2019-05-04 15:33:57:080 - [Xcode] 		deviceSerialNumber:         C39Y9K50KPG1
+                    5173 2019-05-04 15:33:57:080 - [Xcode] 		identifier:                 00008020-0013056136E1002E
+                    5174 2019-05-04 15:33:57:080 - [Xcode] 		deviceClass:                iPhone
+                    5175 2019-05-04 15:33:57:080 - [Xcode] 		deviceName:                 iPhone de Tienda
+                    5176 2019-05-04 15:33:57:081 - [Xcode] 		deviceIdentifier:           00008020-0013056136E1002E
+                    5177 2019-05-04 15:33:57:081 - [Xcode] 		productVersion:             12.2
+                    5178 2019-05-04 15:33:57:081 - [Xcode] 		buildVersion:               16E227
+                    5179 2019-05-04 15:33:57:081 - [Xcode] 		deviceSoftwareVersion:      12.2 (16E227)
+                    5180 2019-05-04 15:33:57:081 - [Xcode] 		deviceArchitecture:         arm64e
+                    5181 2019-05-04 15:33:57:081 - [Xcode] 		deviceTotalCapacity:        59367043072
+                    5182 2019-05-04 15:33:57:081 - [Xcode] 		deviceAvailableCapacity:    50968850432
+                    5183 2019-05-04 15:33:57:081 - [Xcode] 		deviceIsTransient:          NO
+                    5184 2019-05-04 15:33:57:081 - [Xcode] 		ignored:                    NO
+                    5185 2019-05-04 15:33:57:081 - [Xcode] 		deviceIsBusy:               NO
+                    5186 2019-05-04 15:33:57:081 - [Xcode] 		deviceIsPaired:             YES
+                    5187 2019-05-04 15:33:57:081 - [Xcode] 		deviceIsActivated:          YES
+                    5188 2019-05-04 15:33:57:081 - [Xcode] 		deviceActivationState:      Activated
+                    5189 2019-05-04 15:33:57:081 - [Xcode] 		isPasscodeLocked:           NO
+                    5190 2019-05-04 15:33:57:081 - [Xcode] 		deviceType:                 <DVTDeviceType:0x7f9fbdecf960 Xcode.DeviceType.iPhone>
+                    5191 2019-05-04 15:33:57:081 - [Xcode] 		supportedDeviceFamilies:    (
+                    5192 2019-05-04 15:33:57:081 - [Xcode]     1
+                    5193 2019-05-04 15:33:57:081 - [Xcode] )
+                    5194 2019-05-04 15:33:57:081 - [Xcode] 		applications:              (null)
+                    5195 2019-05-04 15:33:57:082 - [Xcode] 		provisioningProfiles:      (null)
+                    5196 2019-05-04 15:33:57:082 - [Xcode] 		hasInternalSupport:        NO
+                    5197 2019-05-04 15:33:57:082 - [Xcode] 		isSupportedOS:             YES
+                    5198 2019-05-04 15:33:57:082 - [Xcode] 		developerDiskMountError:   (null)
+                    5199 2019-05-04 15:33:57:082 - [Xcode] (null)
+                    5200 2019-05-04 15:33:57:082 - [Xcode] 	bootArgs:                  (null)
+                    5201 2019-05-04 15:33:57:082 - [Xcode] 		nextBootArgs:              (null)
+                    5202 2019-05-04 15:33:57:082 - [Xcode] 		connected:                 yes
+                    5203 2019-05-04 15:33:57:082 - [Xcode] 		isWirelessEnabled:         no
+                    5204 2019-05-04 15:33:57:082 - [Xcode] 		connectionType:            direct
+                    5205 2019-05-04 15:33:57:082 - [Xcode] 		hostname:                  (null)
+                    5206 2019-05-04 15:33:57:082 - [Xcode] 		bonjourServiceName:        58:6b:14:a6:bb:58@fe80::5a6b:14ff:fea6:bb58._apple-mobdev2._tcp.local.
+                    5207 2019-05-04 15:33:57:082 - [Xcode] 		} (12.2 (16E227))
+                    5208 2019-05-04 15:33:57:082 - [Xcode] 17:33:46.028 xcodebuild[17180:177653] 	/Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild
+                    5209 2019-05-04 15:33:57:082 - [Xcode] build-for-testing
+                    5210 2019-05-04 15:33:57:082 - [Xcode] test-without-building
+                    5211 2019-05-04 15:33:57:082 - [Xcode] -project
+                    5212 2019-05-04 15:33:57:082 - [Xcode] /usr/local/lib/node_modules/appium/node_modules/appium-xcuitest-driver/WebDriverAgent/WebDriverAgent.xcodeproj
+                    5213 2019-05-04 15:33:57:082 - [Xcode] -scheme
+                    5214 2019-05-04 15:33:57:083 - [Xcode] WebDriverAgentRunner
+                    5215 2019-05-04 15:33:57:083 - [Xcode] -derivedDataPath
+                    5216 2019-05-04 15:33:57:083 - [Xcode] /Users/juanc.zarate/Library/Developer/Xcode/DerivedData/WebDriverAgent-brdadhpuduowllgivnnvuygpwhzy
+                    5217 2019-05-04 15:33:57:083 - [Xcode] -destination
+                    5218 2019-05-04 15:33:57:083 - [Xcode] id=00008020-0013056136E1002E
+                    5219 2019-05-04 15:33:57:083 - [Xcode] IPHONEOS_DEPLOYMENT_TARGET=12.2
+                    5220 2019-05-04 15:33:57:083 - [Xcode] GCC_TREAT_WARNINGS_AS_ERRORS=0
+                    5221 2019-05-04 15:33:57:083 - [Xcode] COMPILER_INDEX_STORE_ENABLE=NO
+                    5222 2019-05-04 15:33:57:083 - [Xcode] 17:33:46.028 xcodebuild[17180:177653] Launching with Xcode.IDEFoundation.Launcher.PosixSpawn
+                    5223 2019-05-04 15:33:57:083 - [Xcode] 17:33:46.030 xcodebuild[17180:177692] Started connection with 00008020-0013056136E1002E
+                    5224 Xcode
+                    5225 2019-05-04 15:33:57:083 - [Xcode] 17:33:46.039 xcodebuild[17180:177653] Setting up test runner session
+                    5226 2019-05-04 15:33:57:083 - [Xcode] 17:33:46.040 xcodebuild[17180:177653] Registering/updating daemon-based crash report observer for process names (
+                    5227 2019-05-04 15:33:57:083 - [Xcode]     SpringBoard,
+                    5228 2019-05-04 15:33:57:083 - [Xcode]     backboardd,
+                    5229 2019-05-04 15:33:57:083 - [Xcode]     xctest,
+                    5230 2019-05-04 15:33:57:083 - [Xcode]     "WebDriverAgentRunner-Runner"
+                    5231 2019-05-04 15:33:57:083 - [Xcode] )
+                    5232 2019-05-04 15:33:57:083 - [Xcode] 17:33:46.043 xcodebuild[17180:177695] Connecting to mobile device: 00008020-0013056136E1002E
+                    5233 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.046 xcodebuild[17180:177695] Starting session with mobile device
+                    5234 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.155 xcodebuild[17180:177692] Started session with 00008020-0013056136E1002E
+                    5235 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.158 xcodebuild[17180:177695] Starting test manager service on mobile device.
+                    5236 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.164 xcodebuild[17180:177691] Received connection for test runner session
+                    5237 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.164 xcodebuild[17180:177691] Listening for proxy connection request from the test bundle
+                    5238 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.165 xcodebuild[17180:177691] Initiating session with identifier: 81772F6E-4CFF-45F2-A07F-DEEF1C357756
+                    5239 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.165 xcodebuild[17180:177653] Test runner session acquired connection.
+                    5240 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.166 xcodebuild[17180:177653] Waiting for test process to launch.
+                    5241 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.168 xcodebuild[17180:177653] Finished requesting crash reports. Continuing with testing.
+                    5242 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.168 xcodebuild[17180:177694] Got reply to session initiation request with identifier 81772F6E-4CFF-45F2-A07F-DEEF1C357756 (result:error): 29: (null)
+                    5243 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.171 xcodebuild[17180:177653] Launch session started.
+                    5244 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.178 xcodebuild[17180:177692] Ending session with 00008020-0013056136E1002E
+                    5245 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.179 xcodebuild[17180:177692] Ending connection with 00008020-0013056136E1002E
+                    5246 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.181 xcodebuild[17180:177693] Started connection with 00008020-0013056136E1002E
+                    5247 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.278 xcodebuild[17180:177693] Started session with 00008020-0013056136E1002E
+                    5248 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.289 xcodebuild[17180:177693] Ending session with 00008020-0013056136E1002E
+                    5249 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.291 xcodebuild[17180:177693] Ending connection with 00008020-0013056136E1002E
+                    5250 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.294 xcodebuild[17180:177694] Started connection with 00008020-0013056136E1002E
+                    5251 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.407 xcodebuild[17180:177694] Started session with 00008020-0013056136E1002E
+                    5252 2019-05-04 15:33:57:084 - [Xcode] 17:33:46.407 xcodebuild[17180:177694] Ending session with 00008020-0013056136E1002E
+                    5253 2019-05-04 15:33:57:085 - [Xcode] 17:33:46.409 xcodebuild[17180:177694] Ending connection with 00008020-0013056136E1002E
+                    5254 Xcode
+                    5255 2019-05-04 15:33:57:085 - [Xcode] 17:33:46.436 xcodebuild[17180:177693] Started connection with 00008020-0013056136E1002E
+                    5256 2019-05-04 15:33:57:085 - [Xcode] 17:33:46.563 xcodebuild[17180:177693] Started session with 00008020-0013056136E1002E
+                    5257 2019-05-04 15:33:57:085 - [Xcode] 17:33:46.575 xcodebuild[17180:177693] Ending session with 00008020-0013056136E1002E
+                    5258 2019-05-04 15:33:57:085 - [Xcode] 17:33:46.577 xcodebuild[17180:177693] Ending connection with 00008020-0013056136E1002E
+                    5259 2019-05-04 15:33:57:085 - [Xcode] 17:33:46.580 xcodebuild[17180:177691] 📱<DVTiOSDevice (0x7f9fbe3e2190), iPhone de Tienda, iPhone, 12.2 (16E227), 00008020-0013056136E1002E> app uninstall set - {(
+                    5260 2019-05-04 15:33:57:085 - [Xcode] )}
+                    5261 2019-05-04 15:33:57:085 - [Xcode] 17:33:46.581 xcodebuild[17180:177691] 📱<DVTiOSDevice (0x7f9fbe3e2190), iPhone de Tienda, iPhone, 12.2 (16E227), 00008020-0013056136E1002E> app install set - {(
+                    5262 Xcode
+                    5263 2019-05-04 15:33:57:085 - [Xcode] )}
+                    5264 2019-05-04 15:33:57:085 - [Xcode] 17:33:46.582 xcodebuild[17180:177693] Started connection with 00008020-0013056136E1002E
+                    5265 2019-05-04 15:33:57:085 - [Xcode] 17:33:46.689 xcodebuild[17180:177693] Started session with 00008020-0013056136E1002E
+                    5266 2019-05-04 15:33:57:085 - [Xcode] 17:33:46.759 xcodebuild[17180:177693] Ending session with 00008020-0013056136E1002E
+                    5267 2019-05-04 15:33:57:085 - [Xcode] 17:33:46.760 xcodebuild[17180:177693] Ending connection with 00008020-0013056136E1002E
+                    5268 2019-05-04 15:33:57:085 - [Xcode] 17:33:47.593 xcodebuild[17180:177692] Device 00008020-0013056136E1002E received darwin note: MISProvisioningProfileInstalled
+                    5269 2019-05-04 15:33:57:085 - [Xcode] 17:33:47.596 xcodebuild[17180:177692] Started connection with 00008020-0013056136E1002E
+                    5270 2019-05-04 15:33:57:085 - [Xcode] 17:33:47.728 xcodebuild[17180:177692] Started session with 00008020-0013056136E1002E
+                    5271 2019-05-04 15:33:57:085 - [Xcode] 17:33:47.753 xcodebuild[17180:177692] Ending session with 00008020-0013056136E1002E
+                    5272 2019-05-04 15:33:57:085 - [Xcode] 17:33:47.757 xcodebuild[17180:177692] Ending connection with 00008020-0013056136E1002E
+                    5273 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.253 xcodebuild[17180:177695] Device 00008020-0013056136E1002E received darwin note: com.apple.mobile.application_installed
+                    5274 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.253 xcodebuild[17180:177695] Device 00008020-0013056136E1002E received darwin note: com.apple.mobile.application_installed
+                    5275 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.253 xcodebuild[17180:177695] Device 00008020-0013056136E1002E received darwin note: com.apple.mobile.application_installed
+                    5276 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.253 xcodebuild[17180:177695] Device 00008020-0013056136E1002E received darwin note: com.apple.mobile.application_installed
+                    5277 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.254 xcodebuild[17180:177695] Device 00008020-0013056136E1002E received darwin note: com.apple.mobile.application_installed
+                    5278 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.256 xcodebuild[17180:177695] Started connection with 00008020-0013056136E1002E
+                    5279 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.392 xcodebuild[17180:177695] Started session with 00008020-0013056136E1002E
+                    5280 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.429 xcodebuild[17180:177695] Ending session with 00008020-0013056136E1002E
+                    5281 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.431 xcodebuild[17180:177695] Ending connection with 00008020-0013056136E1002E
+                    5282 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.433 xcodebuild[17180:177692] Started connection with 00008020-0013056136E1002E
+                    5283 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.544 xcodebuild[17180:177692] Started session with 00008020-0013056136E1002E
+                    5284 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.625 xcodebuild[17180:177692] Ending session with 00008020-0013056136E1002E
+                    5285 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.626 xcodebuild[17180:177692] Ending connection with 00008020-0013056136E1002E
+                    5286 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.628 xcodebuild[17180:177696] Started connection with 00008020-0013056136E1002E
+                    5287 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.726 xcodebuild[17180:177696] Started session with 00008020-0013056136E1002E
+                    5288 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.795 xcodebuild[17180:177696] Ending session with 00008020-0013056136E1002E
+                    5289 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.797 xcodebuild[17180:177696] Ending connection with 00008020-0013056136E1002E
+                    5290 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.800 xcodebuild[17180:177694] 📱<DVTiOSDevice (0x7f9fbe3e2190), iPhone de Tienda, iPhone, 12.2 (16E227), 00008020-0013056136E1002E> fetching applications...
+                    5291 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.802 xcodebuild[17180:177692] Started connection with 00008020-0013056136E1002E
+                    5292 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.901 xcodebuild[17180:177692] Started session with 00008020-0013056136E1002E
+                    5293 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.973 xcodebuild[17180:177692] Ending session with 00008020-0013056136E1002E
+                    5294 2019-05-04 15:33:57:086 - [Xcode] 17:33:48.974 xcodebuild[17180:177692] Ending connection with 00008020-0013056136E1002E
+                    5295 Xcode
+                    5296 Xcode
+                    5297 2019-05-04 15:33:57:086 - [Xcode]
+                    5298 Xcode
+                    5299 Xcode
+                    5300 Xcode
+                    5301 Xcode
+                    5302 2019-05-04 15:33:57:087 - [Xcode] 	         testBundleRelativePath:(null)
+                    5303 2019-05-04 15:33:57:087 - [Xcode] 	              productModuleName:WebDriverAgentRunner
+                    5304 2019-05-04 15:33:57:087 - [Xcode] 	                    testsToSkip:(null)
+                    5305 2019-05-04 15:33:57:087 - [Xcode] 	                     testsToRun:(null)
+                    5306 2019-05-04 15:33:57:087 - [Xcode] 	             reportResultsToIDE:YES
+                    5307 2019-05-04 15:33:57:087 - [Xcode] 	               testsDrivenByIDE:no
+                    5308 2019-05-04 15:33:57:087 - [Xcode] 	              sessionIdentifier:81772F6E-4CFF-45F2-A07F-DEEF1C357756
+                    5309 2019-05-04 15:33:57:087 - [Xcode] 	      disablePerformanceMetrics:no
+                    5310 2019-05-04 15:33:57:087 - [Xcode] 	treatMissingBaselinesAsFailures:no
+                    5311 2019-05-04 15:33:57:087 - [Xcode] 	                baselineFileURL:(null)
+                    5312 2019-05-04 15:33:57:087 - [Xcode] 	       baselineFileRelativePath:(null)
+                    5313 2019-05-04 15:33:57:087 - [Xcode] 	          targetApplicationPath:(null)
+                    5314 2019-05-04 15:33:57:087 - [Xcode] 	      targetApplicationBundleID:(null)
+                    5315 2019-05-04 15:33:57:087 - [Xcode] 	 testApplicationDependencies:
+                    5316 2019-05-04 15:33:57:087 - [Xcode] {
+                    5317 Xcode
+                    5318 2019-05-04 15:33:57:087 - [Xcode] }
+                    5319 2019-05-04 15:33:57:087 - [Xcode] 	 testApplicationUserOverrides:(null)
+                    5320 2019-05-04 15:33:57:087 - [Xcode] 	     targetApplicationArguments:
+                    5321 2019-05-04 15:33:57:087 - [Xcode] 	   targetApplicationEnvironment:(null)
+                    5322 2019-05-04 15:33:57:087 - [Xcode] 	               reportActivities:YES
+                    5323 2019-05-04 15:33:57:087 - [Xcode] 	       testsMustRunOnMainThread:YES
+                    5324 2019-05-04 15:33:57:087 - [Xcode] 	         initializeForUITesting:YES
+                    5325 2019-05-04 15:33:57:087 - [Xcode] 	 aggregateStatisticsBeforeCrash:
+                    5326 2019-05-04 15:33:57:087 - [Xcode] {
+                    5327 2019-05-04 15:33:57:087 - [Xcode]     XCSuiteRecordsKey =     {
+                    5328 2019-05-04 15:33:57:087 - [Xcode]     };
+                    5329 2019-05-04 15:33:57:087 - [Xcode] }
+                    5330 2019-05-04 15:33:57:087 - [Xcode] 	        automationFrameworkPath:/Developer/Library/PrivateFrameworks/XCTAutomationSupport.framework
+                    5331 2019-05-04 15:33:57:087 - [Xcode] 	 bridgedAutomationFrameworkPath:(null)
+                    5332 2019-05-04 15:33:57:087 - [Xcode] 	                     emitOSLogs:no
+                    5333 2019-05-04 15:33:57:088 - [Xcode] 	       systemAttachmentLifetime:2
+                    5334 2019-05-04 15:33:57:088 - [Xcode] 	         userAttachmentLifetime:1
+                    5335 2019-05-04 15:33:57:088 - [Xcode] 	   gatherLocalizableStringsData:no
+                    5336 2019-05-04 15:33:57:088 - [Xcode] 	          testExecutionOrdering:lexical
+                    5337 2019-05-04 15:33:57:088 - [Xcode] 	    randomExecutionOrderingSeed:(null)
+                    5338 2019-05-04 15:33:57:088 - [Xcode]
+                    5339 Xcode
+                    5340 2019-05-04 15:33:57:088 - [Xcode] 17:33:48.982 xcodebuild[17180:177696] Started connection with 00008020-0013056136E1002E
+                    5341 2019-05-04 15:33:57:088 - [Xcode] 17:33:49.064 xcodebuild[17180:177696] Started session with 00008020-0013056136E1002E
+                    5342 2019-05-04 15:33:57:088 - [Xcode] 17:33:49.315 xcodebuild[17180:177692] Device 00008020-0013056136E1002E received darwin note: com.apple.mobile.keybagd.lock_status
+                    5343 2019-05-04 15:33:57:088 - [Xcode] 17:33:49.646 xcodebuild[17180:177695] Device 00008020-0013056136E1002E received darwin note: com.apple.mobile.keybagd.lock_status
+                    5344 2019-05-04 15:33:57:088 - [Xcode] 17:33:50.740 xcodebuild[17180:177696] Ending session with 00008020-0013056136E1002E
+                    5345 2019-05-04 15:33:57:088 - [Xcode] 17:33:50.742 xcodebuild[17180:177696] Ending connection with 00008020-0013056136E1002E
+                    5346 2019-05-04 15:33:57:088 - [Xcode] 17:33:50.746 xcodebuild[17180:177691] Requesting 00008020-0013056136E1002E: <DTDKCopyValueRequest: 0x7f9fbe32cc30> { domain: (null), key: PasswordProtected}
+                    5347 Xcode
+                    5348 Xcode
+                    5349 Xcode
+                    5350 2019-05-04 15:33:57:088 - [Xcode]     "DYLD_FRAMEWORK_PATH" = "/private/var/containers/Bundle/Application/9E4B6EF8-D195-45A6-8F6E-DE286F6A3B31/WebDriverAgentRunner-Runner.app/Frameworks:";
+                    5351 2019-05-04 15:33:57:088 - [Xcode]     "DYLD_INSERT_LIBRARIES" = "/Developer/usr/lib/libMainThreadChecker.dylib";
+                    5352 2019-05-04 15:33:57:088 - [Xcode]     "DYLD_LIBRARY_PATH" = "/usr/lib/swift:/private/var/containers/Bundle/Application/9E4B6EF8-D195-45A6-8F6E-DE286F6A3B31/WebDriverAgentRunner-Runner.app/Frameworks";
+                    5353 2019-05-04 15:33:57:088 - [Xcode]     "MTC_CRASH_ON_REPORT" = 1;
+                    5354 Xcode
+                    5355 2019-05-04 15:33:57:088 - [Xcode] }
+                    5356 2019-05-04 15:33:57:089 - [Xcode] 17:33:50.872 xcodebuild[17180:177691] Started session with 00008020-0013056136E1002E
+                    5357 Xcode
+                    5358 Xcode
+                    5359 2019-05-04 15:33:57:089 - [Xcode] 17:33:50.875 xcodebuild[17180:177691] Ending session with 00008020-0013056136E1002E
+                    5360 2019-05-04 15:33:57:089 - [Xcode] 17:33:50.881 xcodebuild[17180:177692] Started connection with 00008020-0013056136E1002E
+                    5361 2019-05-04 15:33:57:089 - [Xcode] 17:33:51.000 xcodebuild[17180:177692] Started session with 00008020-0013056136E1002E
+                    5362 2019-05-04 15:33:57:089 - [Xcode] 17:33:51.012 xcodebuild[17180:177692] Ending session with 00008020-0013056136E1002E
+                    5363 2019-05-04 15:33:57:089 - [Xcode] 17:33:51.014 xcodebuild[17180:177692] Ending connection with 00008020-0013056136E1002E
+                    5364 2019-05-04 15:33:57:089 - [Xcode] 17:33:51.186 xcodebuild[17180:177653] Test process runnable PID is 993.
+                    5365 2019-05-04 15:33:57:089 - [Xcode] 2019-05-04 17:33:53.106753+0200 WebDriverAgentRunner-Runner[993:275707] Running tests...
+                    5366 Xcode
+                    5367 Xcode
+                    5368 Xcode
+                    5369 Xcode
+                    5370 Xcode
+                    5371 2019-05-04 15:33:57:089 - [Xcode] 17:33:51.487 xcodebuild[17180:177700] Handling proxy channel request from test runner
+                    5372 2019-05-04 15:33:57:089 - [Xcode] 17:33:51.488 xcodebuild[17180:177700] Test runner is ready, running protocol 30, requires at least version 7. Control framework is running 30 and requires at least 7
+                    5373 2019-05-04 15:33:57:089 - [Xcode] 17:33:51.488 xcodebuild[17180:177653] Test runner session successfully initiated.
+                    5374 2019-05-04 15:33:57:089 - [Xcode] 17:33:51.488 xcodebuild[17180:177653] Whitelisting test process ID 993
+                    5375 2019-05-04 15:33:57:089 - [Xcode] 17:33:51.492 xcodebuild[17180:177653] Got whitelisting response from test daemon: Success
+                    5376 2019-05-04 15:33:57:089 - [Xcode] 17:33:51.492 xcodebuild[17180:177653] Registering/updating daemon-based crash report observer for process names (
+                    5377 2019-05-04 15:33:57:089 - [Xcode]     SpringBoard,
+                    5378 2019-05-04 15:33:57:090 - [Xcode]     backboardd,
+                    5379 2019-05-04 15:33:57:090 - [Xcode]     xctest,
+                    5380 2019-05-04 15:33:57:090 - [Xcode]     "WebDriverAgentRunner-Runner"
+                    5381 2019-05-04 15:33:57:090 - [Xcode] )
+                    5382 2019-05-04 15:33:57:090 - [Xcode] 17:33:51.493 xcodebuild[17180:177653] Telling test runner to start executing tests.
+                    5383 2019-05-04 15:33:57:090 - [Xcode] 17:33:53.219 WebDriverAgentRunner-Runner[993:275727] _IDE_startExecutingTestPlanWithProtocolVersion:30
+                    5384 2019-05-04 15:33:57:090 - [Xcode] 17:33:53.219 WebDriverAgentRunner-Runner[993:275727] <XCTWaiter: 0x283d488f0, state: XCTWaiterStateSucceeded>: cancelWaiting
+                    5385 2019-05-04 15:33:57:090 - [Xcode] 17:33:53.219 WebDriverAgentRunner-Runner[993:275707] <XCTWaiter: 0x283d488f0, state: XCTWaiterStateSucceeded> done waiting
+                    5386 2019-05-04 15:33:57:090 - [Xcode] 17:33:53.219 WebDriverAgentRunner-Runner[993:275707] Canceling watchdog for <XCTWaiter: 0x283d488f0, state: XCTWaiterStateInProgress>.
+                    5387 2019-05-04 15:33:57:090 - [Xcode] 17:33:53.219 WebDriverAgentRunner-Runner[993:275707] <XCTWaiter: 0x283d488f0, state: XCTWaiterStateSucceeded> cleaning up `IDE session ready for test plan`
+                    5388 Xcode
+                    5389 2019-05-04 15:33:57:090 - [Xcode] XCTest.framework bundle version: 14490.71
+                    5390 2019-05-04 15:33:57:090 - [Xcode] 17:33:53.111 WebDriverAgentRunner-Runner[993:275707] System uptime: 1d 3:07:44
+                    5391 2019-05-04 15:33:57:090 - [Xcode] 17:33:53.111 WebDriverAgentRunner-Runner[993:275707] Process arguments: (
+                    5392 2019-05-04 15:33:57:090 - [Xcode]     "/var/containers/Bundle/Application/9E4B6EF8-D195-45A6-8F6E-DE286F6A3B31/WebDriverAgentRunner-Runner.app/WebDriverAgentRunner-Runner",
+                    5393 2019-05-04 15:33:57:090 - [Xcode]     "-NSTreatUnknownArgumentsAsOpen",
+                    5394 2019-05-04 15:33:57:090 - [Xcode]     NO,
+                    5395 2019-05-04 15:33:57:090 - [Xcode]     "-ApplePersistenceIgnoreState",
+                    5396 2019-05-04 15:33:57:090 - [Xcode]     YES
+                    5397 2019-05-04 15:33:57:090 - [Xcode] )
+                    5398 2019-05-04 15:33:57:090 - [Xcode] 17:33:53.112 WebDriverAgentRunner-Runner[993:275707] Process environment: {
+                    5399 2019-05-04 15:33:57:090 - [Xcode]     "CA_ASSERT_MAIN_THREAD_TRANSACTIONS" = 0;
+                    5400 2019-05-04 15:33:57:090 - [Xcode]     "CA_DEBUG_TRANSACTIONS" = 0;
+                    5401 2019-05-04 15:33:57:091 - [Xcode]     "CFFIXED_USER_HOME" = "/private/var/mobile/Containers/Data/Application/BCB6A742-5E47-4291-98EF-AD743F35D5A1";
+                    5402 2019-05-04 15:33:57:091 - [Xcode]     CLASSIC = 1;
+                    5403 2019-05-04 15:33:57:091 - [Xcode]     "DYLD_FRAMEWORK_PATH" = "/private/var/containers/Bundle/Application/9E4B6EF8-D195-45A6-8F6E-DE286F6A3B31/WebDriverAgentRunner-Runner.app/Frameworks:";
+                    5404 2019-05-04 15:33:57:091 - [Xcode]     "DYLD_LIBRARY_PATH" = "/usr/lib/swift:/private/var/containers/Bundle/Application/9E4B6EF8-D195-45A6-8F6E-DE286F6A3B31/WebDriverAgentRunner-Runner.app/Frameworks";
+                    5405 2019-05-04 15:33:57:091 - [Xcode]     HOME = "/private/var/mobile/Containers/Data/Application/BCB6A742-5E47-4291-98EF-AD743F35D5A1";
+                    5406 2019-05-04 15:33:57:091 - [Xcode]     LOGNAME = mobile;
+                    5407 2019-05-04 15:33:57:091 - [Xcode]     "MJPEG_SERVER_PORT" = "";
+                    5408 2019-05-04 15:33:57:091 - [Xcode]     "MTC_CRASH_ON_REPORT" = 1;
+                    5409 2019-05-04 15:33:57:091 - [Xcode]     NSUnbufferedIO = YES;
+                    5410 2019-05-04 15:33:57:091 - [Xcode]     "OS_ACTIVITY_DT_MODE" = YES;
+                    5411 2019-05-04 15:33:57:091 - [Xcode]     PATH = "/usr/bin:/bin:/usr/sbin:/sbin";
+                    5412 2019-05-04 15:33:57:091 - [Xcode]     SHELL = "/bin/sh";
+                    5413 2019-05-04 15:33:57:091 - [Xcode]     "SQLITE_ENABLE_THREAD_ASSERTIONS" = 1;
+                    5414 2019-05-04 15:33:57:091 - [Xcode]     TMPDIR = "/private/var/mobile/Containers/Data/Application/BCB6A742-5E47-4291-98EF-AD743F35D5A1/tmp/";
+                    5415 2019-05-04 15:33:57:091 - [Xcode]     "UPGRADE_TIMESTAMP" = 1556912505463;
+                    5416 2019-05-04 15:33:57:091 - [Xcode]     USER = mobile;
+                    5417 2019-05-04 15:33:57:091 - [Xcode]     "USE_PORT" = 8100;
+                    5418 2019-05-04 15:33:57:091 - [Xcode]     "WDA_PRODUCT_BUNDLE_IDENTIFIER" = "com.facebook.WebDriverAgentRunner";
+                    5419 Xcode
+                    5420 2019-05-04 15:33:57:091 - [Xcode]     "XPC_FLAGS" = 0x0;
+                    5421 2019-05-04 15:33:57:091 - [Xcode]     "XPC_SERVICE_NAME" = "UIKitApplication:com.apple.test.WebDriverAgentRunner-Runner[0x1692][65]";
+                    5422 2019-05-04 15:33:57:091 - [Xcode]     "__CF_USER_TEXT_ENCODING" = "0x1F5:0:0";
+                    5423 2019-05-04 15:33:57:091 - [Xcode] }
+                    5424 2019-05-04 15:33:57:092 - [Xcode] 17:33:53.112 WebDriverAgentRunner-Runner[993:275707] App Sandbox active: YES
+                    5425 2019-05-04 15:33:57:092 - [Xcode] 17:33:53.112 WebDriverAgentRunner-Runner[993:275707] Creating future for 'Acquiring IDE transport' with timeout 60.00
+                    5426 2019-05-04 15:33:57:092 - [Xcode] 17:33:53.113 WebDriverAgentRunner-Runner[993:275707] Creating future for 'Exchange protocol versions with daemon' with timeout 15.00
+                    5427 Xcode
+                    5428 2019-05-04 15:33:57:092 - [Xcode] 17:33:53.114 WebDriverAgentRunner-Runner[993:275727] <XCTWaiter: 0x283d44e40, state: XCTWaiterStateSucceeded>: cancelWaiting
+                    5429 2019-05-04 15:33:57:092 - [Xcode] 17:33:53.114 WebDriverAgentRunner-Runner[993:275707] <XCTWaiter: 0x283d44e40, state: XCTWaiterStateSucceeded> done waiting
+                    5430 2019-05-04 15:33:57:092 - [Xcode] 17:33:53.114 WebDriverAgentRunner-Runner[993:275707] Canceling watchdog for <XCTWaiter: 0x283d44e40, state: XCTWaiterStateInProgress>.
+                    5431 2019-05-04 15:33:57:092 - [Xcode] 17:33:53.114 WebDriverAgentRunner-Runner[993:275707] <XCTWaiter: 0x283d44e40, state: XCTWaiterStateSucceeded> cleaning up `Exchange protocol versions with daemon`
+                    5432 2019-05-04 15:33:57:092 - [Xcode] 17:33:53.114 WebDriverAgentRunner-Runner[993:275707] Got daemon protocol version 26
+                    5433 2019-05-04 15:33:57:092 - [Xcode] 17:33:53.114 WebDriverAgentRunner-Runner[993:275707] Requesting IDE connection transport
+                    5434 Xcode
+                    5435 2019-05-04 15:33:57:092 - [Xcode] 17:33:53.115 WebDriverAgentRunner-Runner[993:275727] Creating transport with received transport data
+                    5436 2019-05-04 15:33:57:092 - [Xcode] 17:33:53.115 WebDriverAgentRunner-Runner[993:275727] <XCTWaiter: 0x283d447a0, state: XCTWaiterStateSucceeded>: cancelWaiting
+                    5437 2019-05-04 15:33:57:092 - [Xcode] 17:33:53.115 WebDriverAgentRunner-Runner[993:275707] <XCTWaiter: 0x283d447a0, state: XCTWaiterStateSucceeded> done waiting
+                    5438 2019-05-04 15:33:57:092 - [Xcode] 17:33:53.115 WebDriverAgentRunner-Runner[993:275707] Canceling watchdog for <XCTWaiter: 0x283d447a0, state: XCTWaiterStateInProgress>.
+                    5439 2019-05-04 15:33:57:092 - [Xcode] 17:33:53.115 WebDriverAgentRunner-Runner[993:275707] <XCTWaiter: 0x283d447a0, state: XCTWaiterStateSucceeded> cleaning up `Acquiring IDE transport`
+                    5440 2019-05-04 15:33:57:092 - [Xcode] 17:33:53.115 WebDriverAgentRunner-Runner[993:275707] Creating connection with transport <DTXFileDescriptorTransport: 0x281447f70>
+                    5441 2019-05-04 15:33:57:092 - [Xcode] 17:33:53.116 WebDriverAgentRunner-Runner[993:275707] Creating the proxy channel with connection <DTXConnection 0x28034a300 : x1>
+                    5442 2019-05-04 15:33:57:092 - [Xcode] 17:33:51.499 xcodebuild[17180:177653] Starting test plan, clearing initialization timeout timer.
+                    5443 2019-05-04 15:33:57:092 - [Xcode] 17:33:53.221 WebDriverAgentRunner-Runner[993:275707] Initializing for UI testing.
+                    5444 Xcode
+                    5445 2019-05-04 15:33:57:092 - [Xcode] XCTAutomationSupport.framework bundle version: 14490.71
+                    5446 2019-05-04 15:33:57:093 - [Xcode] 17:33:53.223 WebDriverAgentRunner-Runner[993:275707] Creating future for 'Loading Accessibility' with timeout 70.00
+                    5447 Xcode
+                    5448 2019-05-04 15:33:57:093 - [Xcode] 17:33:53.608 WebDriverAgentRunner-Runner[993:275727] <XCTWaiter: 0x283d45040, state: XCTWaiterStateSucceeded>: cancelWaiting
+                    5449 2019-05-04 15:33:57:093 - [Xcode] 17:33:53.609 WebDriverAgentRunner-Runner[993:275707] <XCTWaiter: 0x283d45040, state: XCTWaiterStateSucceeded> done waiting
+                    5450 2019-05-04 15:33:57:093 - [Xcode] 17:33:53.609 WebDriverAgentRunner-Runner[993:275707] Canceling watchdog for <XCTWaiter: 0x283d45040, state: XCTWaiterStateInProgress>.
+                    5451 2019-05-04 15:33:57:093 - [Xcode] 17:33:53.609 WebDriverAgentRunner-Runner[993:275707] <XCTWaiter: 0x283d45040, state: XCTWaiterStateSucceeded> cleaning up `Loading Accessibility`
+                    5452 2019-05-04 15:33:57:093 - [Xcode] 17:33:53.609 WebDriverAgentRunner-Runner[993:275707] Creating future for 'Enable gathering of localized strings' with timeout 70.00
+                    5453 Xcode
+                    5454 2019-05-04 15:33:57:093 - [Xcode] 17:33:53.609 WebDriverAgentRunner-Runner[993:275727] <XCTWaiter: 0x283d49200, state: XCTWaiterStateSucceeded>: cancelWaiting
+                    5455 2019-05-04 15:33:57:093 - [Xcode] 17:33:53.609 WebDriverAgentRunner-Runner[993:275707] <XCTWaiter: 0x283d49200, state: XCTWaiterStateSucceeded> done waiting
+                    5456 2019-05-04 15:33:57:093 - [Xcode] 17:33:53.609 WebDriverAgentRunner-Runner[993:275707] Canceling watchdog for <XCTWaiter: 0x283d49200, state: XCTWaiterStateInProgress>.
+                    5457 2019-05-04 15:33:57:093 - [Xcode] 17:33:53.610 WebDriverAgentRunner-Runner[993:275707] <XCTWaiter: 0x283d49200, state: XCTWaiterStateSucceeded> cleaning up `Enable gathering of localized strings`
+                    5458 2019-05-04 15:33:57:093 - [Xcode] 17:33:53.610 WebDriverAgentRunner-Runner[993:275707] Creating future for 'Set AX timeout to 60.00s' with timeout 65.00
+                    5459 Xcode
+                    5460 2019-05-04 15:33:57:093 - [Xcode] 17:33:53.610 WebDriverAgentRunner-Runner[993:275729] <XCTWaiter: 0x283d49390, state: XCTWaiterStateSucceeded>: cancelWaiting
+                    5461 2019-05-04 15:33:57:093 - [Xcode] 17:33:53.610 WebDriverAgentRunner-Runner[993:275707] <XCTWaiter: 0x283d49390, state: XCTWaiterStateSucceeded> done waiting
+                    5462 2019-05-04 15:33:57:093 - [Xcode] 17:33:53.610 WebDriverAgentRunner-Runner[993:275707] Canceling watchdog for <XCTWaiter: 0x283d49390, state: XCTWaiterStateInProgress>.
+                    5463 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.610 WebDriverAgentRunner-Runner[993:275707] <XCTWaiter: 0x283d49390, state: XCTWaiterStateSucceeded> cleaning up `Set AX timeout to 60.00s`
+                    5464 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.611 WebDriverAgentRunner-Runner[993:275707] Creating future for 'Registering for kAXUserTestingNotification' with timeout 65.00
+                    5465 Xcode
+                    5466 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.616 WebDriverAgentRunner-Runner[993:275729] <XCTWaiter: 0x283d46230, state: XCTWaiterStateSucceeded>: cancelWaiting
+                    5467 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.616 WebDriverAgentRunner-Runner[993:275707] <XCTWaiter: 0x283d46230, state: XCTWaiterStateSucceeded> done waiting
+                    5468 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.616 WebDriverAgentRunner-Runner[993:275707] Canceling watchdog for <XCTWaiter: 0x283d46230, state: XCTWaiterStateInProgress>.
+                    5469 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.616 WebDriverAgentRunner-Runner[993:275707] <XCTWaiter: 0x283d46230, state: XCTWaiterStateSucceeded> cleaning up `Registering for kAXUserTestingNotification`
+                    5470 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.616 WebDriverAgentRunner-Runner[993:275707] Creating future for 'Registering for kAXAlertNotification' with timeout 65.00
+                    5471 Xcode
+                    5472 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.617 WebDriverAgentRunner-Runner[993:275729] <XCTWaiter: 0x283d46200, state: XCTWaiterStateSucceeded>: cancelWaiting
+                    5473 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.617 WebDriverAgentRunner-Runner[993:275707] <XCTWaiter: 0x283d46200, state: XCTWaiterStateSucceeded> done waiting
+                    5474 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.617 WebDriverAgentRunner-Runner[993:275707] Canceling watchdog for <XCTWaiter: 0x283d46200, state: XCTWaiterStateInProgress>.
+                    5475 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.617 WebDriverAgentRunner-Runner[993:275707] <XCTWaiter: 0x283d46200, state: XCTWaiterStateSucceeded> cleaning up `Registering for kAXAlertNotification`
+                    5476 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.617 WebDriverAgentRunner-Runner[993:275707] Creating future for 'Registering for kAXPidStatusChangedNotification' with timeout 65.00
+                    5477 Xcode
+                    5478 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.617 WebDriverAgentRunner-Runner[993:275729] <XCTWaiter: 0x283d46160, state: XCTWaiterStateSucceeded>: cancelWaiting
+                    5479 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.617 WebDriverAgentRunner-Runner[993:275707] <XCTWaiter: 0x283d46160, state: XCTWaiterStateSucceeded> done waiting
+                    5480 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.617 WebDriverAgentRunner-Runner[993:275707] Canceling watchdog for <XCTWaiter: 0x283d46160, state: XCTWaiterStateInProgress>.
+                    5481 Xcode
+                    5482 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.617 WebDriverAgentRunner-Runner[993:275707] Creating future for 'Request background assertion for test process' with timeout 30.00
+                    5483 Xcode
+                    5484 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.620 WebDriverAgentRunner-Runner[993:275729] Got reply for background assertion for 993, acquired: YES.
+                    5485 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.620 WebDriverAgentRunner-Runner[993:275729] <XCTWaiter: 0x283d49400, state: XCTWaiterStateSucceeded>: cancelWaiting
+                    5486 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.620 WebDriverAgentRunner-Runner[993:275707] <XCTWaiter: 0x283d49400, state: XCTWaiterStateSucceeded> done waiting
+                    5487 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.620 WebDriverAgentRunner-Runner[993:275707] Canceling watchdog for <XCTWaiter: 0x283d49400, state: XCTWaiterStateInProgress>.
+                    5488 Xcode
+                    5489 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.620 WebDriverAgentRunner-Runner[993:275707] Test runner is already executing in the background.
+                    5490 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.620 WebDriverAgentRunner-Runner[993:275707] Done initializing for UI testing.
+                    5491 2019-05-04 15:33:57:094 - [Xcode] 17:33:53.620 WebDriverAgentRunner-Runner[993:275707] Entering test execution event loop
+                    5492 2019-05-04 15:33:57:095 - [Xcode] 17:33:53.620 WebDriverAgentRunner-Runner[993:275707] -[XCTRunnerIDESession testBundleWillStart:]
+                    5493 2019-05-04 15:33:57:095 - [Xcode] 17:33:53.620 WebDriverAgentRunner-Runner[993:275707] Loading test suite...
+                    5494 2019-05-04 15:33:57:095 - [Xcode] 17:33:53.635 WebDriverAgentRunner-Runner[993:275707] Finished loading test suite, took 0.015s
+                    5495 2019-05-04 15:33:57:095 - [Xcode] 17:33:53.635 WebDriverAgentRunner-Runner[993:275707] Running suite...
+                    5496 2019-05-04 15:33:57:095 - [Xcode] 17:33:53.635 WebDriverAgentRunner-Runner[993:275707] -[XCTRunnerIDESession testSuiteWillStart:]
+                    5497 2019-05-04 15:33:57:095 - [Xcode] 17:33:51.913 xcodebuild[17180:177653] _XCT_testSuite:All tests didStartAt:2019-05-04 15:33:53 +0000
+                    5498 2019-05-04 15:33:57:095 - [Xcode] 17:33:55.910 xcodebuild[17180:177694] (LOG ARBITER) Rotating message buffer with 503 messages.
+                    5499 2019-05-04 15:33:57:095 - [Xcode]
+                    5589 2019-05-04 15:33:57:181 - [XCUITest] Cleaning test logs in '/Users/juanc.zarate/Library/Developer/Xcode/DerivedData/WebDriverAgent-brdadhpuduowllgivnnvuygpwhzy/Logs' folder
+                    5591 2019-05-04 15:33:57:188 - [debug] [iOS] Deleting '/Users/juanc.zarate/Library/Developer/Xcode/DerivedData/WebDriverAgent-brdadhpuduowllgivnnvuygpwhzy/Logs'. Freeing 64K.
+        < 1.8 >  (3 usages found)
+            javax.xml.bind  (3 usages found)
+                DatatypeConverterImpl.java  (3 usages found)
+                    printHexBinary(byte[])  (2 usages found)
+                        477 r.append(hexCode[(b >> 4) & 0xF]);
+                        478 r.append(hexCode[(b & 0xF)]);
+                    472 private static final char[] hexCode = "0123456789ABCDEF".toCharArray();
+        Maven: commons-codec:commons-codec:1.10  (14 usages found)
+            org.apache.commons.codec.language  (14 usages found)
+                DoubleMetaphone.java  (8 usages found)
+                    doubleMetaphone(String, boolean)  (1 usage found)
+                        95 final DoubleMetaphoneResult result = new DoubleMetaphoneResult(this.getMaxCodeLen());
+                    getMaxCodeLen()  (2 usages found)
+                        252 public int getMaxCodeLen() {
+                        253 return this.maxCodeLen;
+                    setMaxCodeLen(int)  (2 usages found)
+                        260 public void setMaxCodeLen(final int maxCodeLen) {
+                        261 this.maxCodeLen = maxCodeLen;
+                    60 private int maxCodeLen = 4;
+                    938 private final StringBuilder primary = new StringBuilder(getMaxCodeLen());
+                    939 private final StringBuilder alternate = new StringBuilder(getMaxCodeLen());
+                Metaphone.java  (6 usages found)
+                    metaphone(String)  (3 usages found)
+                        148 while (code.length() < this.getMaxCodeLen() &&
+                        331 if (code.length() > this.getMaxCodeLen()) {
+                        332 code.setLength(this.getMaxCodeLen());
+                    getMaxCodeLen()  (1 usage found)
+                        422 public int getMaxCodeLen() { return this.maxCodeLen; }
+                    setMaxCodeLen(int)  (1 usage found)
+                        428 public void setMaxCodeLen(final int maxCodeLen) { this.maxCodeLen = maxCodeLen; }
+                    73 private int maxCodeLen = 4;
+        Maven: commons-io:commons-io:2.6  (3 usages found)
+            org.apache.commons.io  (3 usages found)
+                HexDump.java  (3 usages found)
+                    dump(StringBuilder, long)  (1 usage found)
+                        143 .append(_hexcodes[(int) (value >> _shifts[j]) & 15]);
+                    dump(StringBuilder, byte)  (1 usage found)
+                        157 _cbuffer.append(_hexcodes[value >> _shifts[j + 6] & 15]);
+                    123 private static final char[] _hexcodes =
+    Usage in comments  (15 usages found)
+        AppMiCarrefour3.0  (3 usages found)
+            project_properties  (1 usage found)
+                ios_config.properties  (1 usage found)
+                    3 #xcodeConfigFile=/app/Workspace/WebDriverAgentRunner/Config.xcconfig
+            qa.carrefour.app.driver.ios  (2 usages found)
+                IOSCapabilities.java  (2 usages found)
+                    getCapabilities()  (2 usages found)
+                        42 //        capabilities.setCapability(IOSMobileCapabilityType.XCODE_ORG_ID, properties.getPropertie(ORG_ID));
+                        43 //        capabilities.setCapability(IOSMobileCapabilityType.XCODE_SIGNING_ID, properties.getPropertie(SINGNING_ID));
+        < 1.8 >  (1 usage found)
+            javax.naming.directory  (1 usage found)
+                DirContext.java  (1 usage found)
+                    search(Name, String, SearchControls)  (1 usage found)
+                        785 * "backslash-hexcode" notation described in RFC 2254 may be used.
+        Maven: commons-codec:commons-codec:1.10  (11 usages found)
+            org.apache.commons.codec.language  (11 usages found)
+                DoubleMetaphone.java  (6 usages found)
+                    getMaxCodeLen()  (1 usage found)
+                        249 * Returns the maxCodeLen.
+                    setMaxCodeLen(int)  (2 usages found)
+                        257 * Sets the maxCodeLen.
+                        258 * @param maxCodeLen The maxCodeLen to set
+                    28 * This class is conditionally thread-safe. The instance field {@link #maxCodeLen} is mutable
+                    29 * {@link #setMaxCodeLen(int)} but is not volatile, and accesses are not synchronized. If an instance of the class is
+                    31 * of the value between threads, and must not invoke {@link #setMaxCodeLen(int)} after initial setup.
+                Metaphone.java  (5 usages found)
+                    getMaxCodeLen()  (1 usage found)
+                        419 * Returns the maxCodeLen.
+                    setMaxCodeLen(int)  (2 usages found)
+                        425 * Sets the maxCodeLen.
+                        426 * @param maxCodeLen The maxCodeLen to set
+                    45 * The instance field {@link #maxCodeLen} is mutable {@link #setMaxCodeLen(int)}
+                    48 * is used to ensure safe publication of the value between threads, and must not invoke {@link #setMaxCodeLen(int)}
+    Usage in string constants  (8 usages found)
+        AppMiCarrefour3.0  (1 usage found)
+            qa.carrefour.app.driver.ios  (1 usage found)
+                IOSCapabilities.java  (1 usage found)
+                    getCapabilities()  (1 usage found)
+                        35 capabilities.setCapability("showXcodeLog", true);
+        < 1.8 >  (3 usages found)
+            javax.swing.colorchooser  (3 usages found)
+                ColorChooserPanel.java  (3 usages found)
+                    buildChooser()  (3 usages found)
+                        135 String label = this.model.getText(this, "HexCode"); // NON-NLS: suffix
+                        142 int mnemonic = this.model.getInteger(this, "HexCodeMnemonic"); // NON-NLS: suffix
+                        145 mnemonic = this.model.getInteger(this, "HexCodeMnemonicIndex"); // NON-NLS: suffix
+        com.oracle.tools.packager.mac  (2 usages found)
+            MacAppStoreBundler.properties  (2 usages found)
+                28 error.no-app-signing-key.advice=Install your app signing keys into your Mac Keychain using XCode.
+                30 error.no-pkg-signing-key.advice=Install your app signing keys into your Mac Keychain using XCode.
+        com.sun.deploy.panel  (2 usages found)
+            settings.xml  (2 usages found)
+                76 <label text="deployment.security.mixcode">
+                77 <radiogroup propertyName="deployment.security.mixcode"  checked="ENABLE">
