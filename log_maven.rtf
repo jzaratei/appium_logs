@@ -1,0 +1,692 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf400
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 AppleColorEmoji;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww28600\viewh14920\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 /Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/bin/java -Dmaven.multiModuleProjectDirectory=/Users/juanc.zarate/testing-automatico/AppMiTienda3.0 "-Dmaven.home=/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3" "-Dclassworlds.conf=/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/bin/m2.conf" "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=59926:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.5.2.jar" org.codehaus.classworlds.Launcher -Didea.version2019.1.1 --update-snapshots clean install\
+[INFO] Scanning for projects...\
+[WARNING] \
+[WARNING] Some problems were encountered while building the effective model for com.appmiTienda.testing:AppMiTienda3.0:jar:3.0\
+[WARNING] Detected profiles.xml alongside com.appmiTienda.testing:AppMiTienda3.0:3.0, this file is no longer supported and was ignored, please use the settings.xml instead\
+[WARNING] \
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.\
+[WARNING] \
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.\
+[WARNING] \
+[INFO]                                                                         \
+[INFO] ------------------------------------------------------------------------\
+[INFO] Building testing-app-miTienda3.0 3.0\
+[INFO] ------------------------------------------------------------------------\
+[INFO] \
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ AppMiTienda3.0 ---\
+[INFO] Deleting /Users/juanc.zarate/testing-automatico/AppMiTienda3.0/target\
+[INFO] \
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ AppMiTienda3.0 ---\
+[INFO] Using 'UTF-8' encoding to copy filtered resources.\
+[INFO] Copying 6 resources\
+[INFO] \
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ AppMiTienda3.0 ---\
+[INFO] Changes detected - recompiling the module!\
+[INFO] Compiling 36 source files to /Users/juanc.zarate/testing-automatico/AppMiTienda3.0/target/classes\
+[WARNING] /Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/main/java/qa/Tienda/app/dataBase/DBUtil.java: Some input files use unchecked or unsafe operations.\
+[WARNING] /Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/main/java/qa/Tienda/app/dataBase/DBUtil.java: Recompile with -Xlint:unchecked for details.\
+[INFO] \
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ AppMiTienda3.0 ---\
+[INFO] Using 'UTF-8' encoding to copy filtered resources.\
+[INFO] Copying 120 resources\
+[INFO] \
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ AppMiTienda3.0 ---\
+[INFO] Changes detected - recompiling the module!\
+[INFO] Compiling 187 source files to /Users/juanc.zarate/testing-automatico/AppMiTienda3.0/target/test-classes\
+[INFO] \
+[INFO] --- maven-surefire-plugin:3.0.0-M3:test (default-test) @ AppMiTienda3.0 ---\
+[INFO] \
+[INFO] -------------------------------------------------------\
+[INFO]  T E S T S\
+[INFO] -------------------------------------------------------\
+[INFO] Running qa.Tienda.app.runner.RunnerTest\
+You are using 59946 port\
+You are using 59947 bootstrapPort\
+2019-05-04 20:22:08:236 - [Appium] Welcome to Appium v1.13.0\
+2019-05-04 20:22:08:242 - [Appium] Non-default server args:\
+2019-05-04 20:22:08:243 - [Appium]   port: 59946\
+2019-05-04 20:22:08:243 - [Appium]   bootstrapPort: 59947\
+2019-05-04 20:22:08:243 - [Appium]   sessionOverride: true\
+2019-05-04 20:22:08:243 - [Appium]   logTimestamp: true\
+2019-05-04 20:22:08:244 - [Appium]   relaxedSecurityEnabled: true\
+2019-05-04 20:22:08:289 - [Appium] Appium REST http interface listener started on 0.0.0.0:59946\
+2019-05-04 20:22:08:408 - [HTTP] --> GET /wd/hub/status\
+2019-05-04 20:22:08:408 - [HTTP] \{\}\
+2019-05-04 20:22:08:410 - [debug] [GENERIC] Calling AppiumDriver.getStatus() with args: []\
+2019-05-04 20:22:08:412 - [debug] [GENERIC] Responding to client with driver.getStatus() result: \{"build":\{"version":"1.13.0"\}\}\
+2019-05-04 20:22:08:420 - [HTTP] <-- GET /wd/hub/status 200 9 ms - 68\
+2019-05-04 20:22:08:420 - [HTTP] \
+IOSCapabilities constructor.\
+2019-05-04 20:22:08:899 - [HTTP] --> POST /wd/hub/session\
+2019-05-04 20:22:08:899 - [HTTP] \{"desiredCapabilities":\{"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","clearSystemFiles":true,"noReset":false,"restart":true,"deviceName":"iPhone de Tienda","wdaLocalPort":59958,"showXcodeLog":true,"wdaLaunchTimeout":999999999,"newCommandTimeout":"250","platformVersion":"12.2","automationName":"XCUITest","useNewWDA":false,"platformName":"iOS","udid":"00008020-0013056136E1002E","wdaConnectionTimeout":999999999\},"capabilities":\{"firstMatch":[\{"appium:app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","appium:automationName":"XCUITest","appium:clearSystemFiles":true,"appium:deviceName":"iPhone de Tienda","appium:newCommandTimeout":"250","appium:noReset":false,"platformName":"ios","appium:platformVersion":"12.2","restart":true,"appium:showXcodeLog":true,"appium:udid":"00008020-0013056136E1002E",\
+2019-05-04 20:22:08:900 - [debug] [W3C] Calling AppiumDriver.createSession() with args: [\{"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","clearSystemFiles":true,"noReset":false,"restart":true,"deviceName":"iPhone de Tienda","wdaLocalPort":59958,"showXcodeLog":true,"wdaLaunchTimeout":999999999,"newCommandTimeout":"250","platformVersion":"12.2","automationName":"XCUITest","useNewWDA":false,"platformName":"iOS","udid":"00008020-0013056136E1002E","wdaConnectionTimeout":999999999\},null,\{"firstMatch":[\{"appium:app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","appium:automationName":"XCUITest","appium:clearSystemFiles":true,"appium:deviceName":"iPhone de Tienda","appium:newCommandTimeout":"250","appium:noReset":false,"platformName":"ios","appium:platformVersion":"12.2","restart":true,"appium:showXcodeLog":true,"appium:udid":"00008020-0013056136E1002E","appium:useNewWDA":false,"appium:wdaConnectionTimeout...\
+2019-05-04 20:22:08:901 - [debug] [BaseDriver] Event 'newSessionRequested' logged at 1557001328901 (22:22:08 GMT+0200 (Central European Summer Time))\
+2019-05-04 20:22:08:905 - [BaseDriver] The capabilities ["restart"] are not standard capabilities and should have an extension prefix\
+2019-05-04 20:22:08:909 - [BaseDriver] Number capability passed in as string. Functionality may be compromised.\
+2019-05-04 20:22:09:309 - [Appium] Appium v1.13.0 creating new XCUITestDriver (v2.113.2) session\
+2019-05-04 20:22:09:309 - [Appium] Capabilities:\
+2019-05-04 20:22:09:309 - [Appium]   platformName: ios\
+2019-05-04 20:22:09:309 - [Appium]   restart: true\
+2019-05-04 20:22:09:309 - [Appium]   app: /Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa\
+2019-05-04 20:22:09:310 - [Appium]   automationName: XCUITest\
+2019-05-04 20:22:09:310 - [Appium]   clearSystemFiles: true\
+2019-05-04 20:22:09:310 - [Appium]   deviceName: iPhone de Tienda\
+2019-05-04 20:22:09:310 - [Appium]   newCommandTimeout: 250\
+2019-05-04 20:22:09:310 - [Appium]   noReset: false\
+2019-05-04 20:22:09:310 - [Appium]   platformVersion: 12.2\
+2019-05-04 20:22:09:310 - [Appium]   showXcodeLog: true\
+2019-05-04 20:22:09:310 - [Appium]   udid: 00008020-0013056136E1002E\
+2019-05-04 20:22:09:311 - [Appium]   useNewWDA: false\
+2019-05-04 20:22:09:311 - [Appium]   wdaConnectionTimeout: 999999999\
+2019-05-04 20:22:09:311 - [Appium]   wdaLaunchTimeout: 999999999\
+2019-05-04 20:22:09:311 - [Appium]   wdaLocalPort: 59958\
+2019-05-04 20:22:09:313 - [Appium] Applying relaxed security to 'XCUITestDriver' as per server command line argument\
+2019-05-04 20:22:09:314 - [debug] [BaseDriver] W3C capabilities \{"alwaysMatch":\{"platformNa... and MJSONWP desired capabilities \{"app":"/Users/juanc.zarate... were provided\
+2019-05-04 20:22:09:315 - [debug] [BaseDriver] Creating session with W3C capabilities: \{"alwaysMatch":\{"platformNa...\
+2019-05-04 20:22:09:317 - [BaseDriver] Number capability passed in as string. Functionality may be compromised.\
+2019-05-04 20:22:09:321 - [BaseDriver] Capability 'newCommandTimeout' changed from string ('250') to integer (250). This may cause unexpected behavior\
+2019-05-04 20:22:09:324 - [BaseDriver] The following capabilities were provided, but are not recognized by appium: restart.\
+2019-05-04 20:22:09:326 - [BaseDriver] Session created with session id: c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:09:361 - [debug] [XCUITest] Current user: 'juanc.zarate'\
+2019-05-04 20:22:09:380 - [debug] [XCUITest] Available devices: 00008020-0013056136E1002E\
+2019-05-04 20:22:09:380 - [debug] [XCUITest] Creating iDevice object with udid '00008020-0013056136E1002E'\
+2019-05-04 20:22:09:381 - [XCUITest] Determining device to run tests on: udid: '00008020-0013056136E1002E', real device: true\
+2019-05-04 20:22:09:495 - [XCUITest] iOS SDK Version set to '12.2'\
+2019-05-04 20:22:09:495 - [debug] [BaseDriver] Event 'xcodeDetailsRetrieved' logged at 1557001329495 (22:22:09 GMT+0200 (Central European Summer Time))\
+2019-05-04 20:22:09:498 - [BaseDriver] Using local app '/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa'\
+2019-05-04 20:22:09:696 - [debug] [BaseDriver] Unzipping '/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa'\
+2019-05-04 20:22:11:669 - [debug] [BaseDriver] Extracted 690 item(s) from '/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa'\
+2019-05-04 20:22:11:721 - [debug] [BaseDriver] Matched 688 item(s) in the extracted archive. Assuming 'Payload/Tienda Cuali.app' is the correct bundle\
+2019-05-04 20:22:11:726 - [BaseDriver] Unzipped local app to '/var/folders/9k/yyzh0_z51lx33jn3xzhvprkc0000gn/T/201944-20093-1o5c0o7.i91kf/Payload/Tienda Cuali.app'\
+2019-05-04 20:22:11:730 - [debug] [BaseDriver] Event 'appConfigured' logged at 1557001331730 (22:22:11 GMT+0200 (Central European Summer Time))\
+2019-05-04 20:22:11:730 - [debug] [XCUITest] Checking whether app '/var/folders/9k/yyzh0_z51lx33jn3xzhvprkc0000gn/T/201944-20093-1o5c0o7.i91kf/Payload/Tienda Cuali.app' is actually present on file system\
+2019-05-04 20:22:11:731 - [debug] [XCUITest] App is present\
+2019-05-04 20:22:11:736 - [debug] [iOS] Getting bundle ID from app '/var/folders/9k/yyzh0_z51lx33jn3xzhvprkc0000gn/T/201944-20093-1o5c0o7.i91kf/Payload/Tienda Cuali.app': 'es.Tienda.crfmobile.quali'\
+2019-05-04 20:22:11:736 - [debug] [BaseDriver] Event 'resetStarted' logged at 1557001331736 (22:22:11 GMT+0200 (Central European Summer Time))\
+2019-05-04 20:22:11:736 - [debug] [XCUITest] Reset: running ios real device reset flow\
+2019-05-04 20:22:11:737 - [debug] [BaseDriver] Event 'resetComplete' logged at 1557001331737 (22:22:11 GMT+0200 (Central European Summer Time))\
+2019-05-04 20:22:11:738 - [debug] [iOSLog] Attempting iOS device log capture via libimobiledevice idevicesyslog\
+2019-05-04 20:22:11:739 - [debug] [iOSLog] Starting iOS device log capture with: 'idevicesyslog'\
+2019-05-04 20:22:11:921 - [debug] [XCUITest] Crash reports root '/Users/juanc.zarate/Library/Logs/CrashReporter/MobileDevice/iPhone de Tienda' does not exist. Got nothing to gather.\
+2019-05-04 20:22:11:922 - [debug] [BaseDriver] Event 'logCaptureStarted' logged at 1557001331922 (22:22:11 GMT+0200 (Central European Summer Time))\
+2019-05-04 20:22:11:922 - [XCUITest] Setting up real device\
+2019-05-04 20:22:11:923 - [debug] [XCUITest] Verifying application platform\
+2019-05-04 20:22:11:931 - [debug] [XCUITest] CFBundleSupportedPlatforms: ["iPhoneOS"]\
+2019-05-04 20:22:11:932 - [debug] [XCUITest] Calling: 'ios-deploy --exists --id 00008020-0013056136E1002E --bundle_id es.Tienda.crfmobile.quali'\
+2019-05-04 20:22:12:381 - [debug] [XCUITest] Stdout: '[....] Waiting for iOS device to be connected\
+2019-05-04 20:22:12:381 - [debug] [XCUITest] [....] Using 00008020-0013056136E1002E (D321AP, D321AP, uknownos, unkarch) a.k.a. 'iPhone de Tienda'.\
+2019-05-04 20:22:12:381 - [debug] [XCUITest] true\
+2019-05-04 20:22:12:381 - [debug] [XCUITest] '\
+2019-05-04 20:22:12:381 - [debug] [XCUITest] Reset requested. Removing app with id 'es.Tienda.crfmobile.quali' from the device\
+2019-05-04 20:22:12:804 - [debug] [XCUITest] Installing '/var/folders/9k/yyzh0_z51lx33jn3xzhvprkc0000gn/T/201944-20093-1o5c0o7.i91kf/Payload/Tienda Cuali.app' on device with UUID '00008020-0013056136E1002E'...\
+2019-05-04 20:22:18:523 - [debug] [XCUITest] The app has been installed successfully.\
+2019-05-04 20:22:18:524 - [debug] [BaseDriver] Event 'appInstalled' logged at 1557001338524 (22:22:18 GMT+0200 (Central European Summer Time))\
+2019-05-04 20:22:18:525 - [XCUITest] Using WDA path: '/usr/local/lib/node_modules/appium/node_modules/appium-xcuitest-driver/WebDriverAgent'\
+2019-05-04 20:22:18:526 - [XCUITest] Using WDA agent: '/usr/local/lib/node_modules/appium/node_modules/appium-xcuitest-driver/WebDriverAgent/WebDriverAgent.xcodeproj'\
+2019-05-04 20:22:18:591 - [debug] [XCUITest] No obsolete cached processes from previous WDA sessions listening on port 59958 have been found\
+2019-05-04 20:22:20:986 - [debug] [XCUITest] Parsed BUILD_DIR configuration value: '/Users/juanc.zarate/Library/Developer/Xcode/DerivedData/WebDriverAgent-brdadhpuduowllgivnnvuygpwhzy/Build/Products'\
+2019-05-04 20:22:20:987 - [debug] [XCUITest] Got derived data root: '/Users/juanc.zarate/Library/Developer/Xcode/DerivedData/WebDriverAgent-brdadhpuduowllgivnnvuygpwhzy'\
+2019-05-04 20:22:20:987 - [debug] [XCUITest] Starting WebDriverAgent initialization with the synchronization key '/Users/juanc.zarate/Library/Developer/Xcode/DerivedData/WebDriverAgent-brdadhpuduowllgivnnvuygpwhzy'\
+2019-05-04 20:22:20:989 - [debug] [WD Proxy] Matched '/status' to command name 'getStatus'\
+2019-05-04 20:22:20:990 - [debug] [WD Proxy] Proxying [GET /status] to [GET http://localhost:59958/status] with no body\
+2019-05-04 20:22:21:002 - [WD Proxy] Got an unexpected response: \{"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":59958\}\
+2019-05-04 20:22:21:003 - [debug] [XCUITest] WDA is not listening at 'http://localhost:59958/'\
+2019-05-04 20:22:21:004 - [debug] [XCUITest] WDA is currently not running. There is nothing to cache\
+2019-05-04 20:22:21:004 - [debug] [XCUITest] Trying to start WebDriverAgent 1 times with 10000ms interval\
+2019-05-04 20:22:21:004 - [debug] [XCUITest] These values can be customized by changing wdaStartupRetries/wdaStartupRetryInterval capabilities\
+2019-05-04 20:22:21:004 - [debug] [BaseDriver] Event 'wdaStartAttempted' logged at 1557001341004 (22:22:21 GMT+0200 (Central European Summer Time))\
+2019-05-04 20:22:21:005 - [XCUITest] Launching WebDriverAgent on the device\
+2019-05-04 20:22:21:006 - [debug] [XCUITest] Carthage found: '/usr/local/bin/carthage'\
+2019-05-04 20:22:21:007 - [debug] [XCUITest] Killing running processes 'xcodebuild.*00008020-0013056136E1002E, iproxy 59958' for the device 00008020-0013056136E1002E...\
+2019-05-04 20:22:21:028 - [debug] [XCUITest] 'pgrep -nif xcodebuild.*00008020-0013056136E1002E' didn't detect any matching processes. Return code: 1\
+2019-05-04 20:22:21:048 - [debug] [XCUITest] 'pgrep -nif iproxy 59958' didn't detect any matching processes. Return code: 1\
+2019-05-04 20:22:21:049 - [debug] [XCUITest] Starting iproxy to forward traffic from local port 59958 to device port 8100 over USB for the device 00008020-0013056136E1002E\
+2019-05-04 20:22:21:056 - [debug] [XCUITest] iProxy is running and is listening on port #59958\
+2019-05-04 20:22:21:057 - [debug] [XCUITest] Beginning test with command 'xcodebuild build-for-testing test-without-building -project /usr/local/lib/node_modules/appium/node_modules/appium-xcuitest-driver/WebDriverAgent/WebDriverAgent.xcodeproj -scheme WebDriverAgentRunner -derivedDataPath /Users/juanc.zarate/Library/Developer/Xcode/DerivedData/WebDriverAgent-brdadhpuduowllgivnnvuygpwhzy -destination id=00008020-0013056136E1002E IPHONEOS_DEPLOYMENT_TARGET=12.2 GCC_TREAT_WARNINGS_AS_ERRORS=0 COMPILER_INDEX_STORE_ENABLE=NO' in directory '/usr/local/lib/node_modules/appium/node_modules/appium-xcuitest-driver/WebDriverAgent'\
+2019-05-04 20:22:21:058 - [debug] [XCUITest] Output from xcodebuild will be logged. To change this, use 'showXcodeLog' desired capability\
+2019-05-04 20:22:21:570 - [Xcode] User defaults from command line:\
+2019-05-04 20:22:21:571 - [Xcode] \
+2019-05-04 20:22:21:572 - [debug] [XCUITest] Waiting up to 999999999ms for WebDriverAgent to start\
+2019-05-04 20:22:21:573 - [debug] [WD Proxy] Matched '/status' to command name 'getStatus'\
+2019-05-04 20:22:21:573 - [debug] [WD Proxy] Proxying [GET /status] to [GET http://localhost:59958/status] with no body\
+2019-05-04 20:22:21:576 - [Xcode]     IDEDerivedDataPathOverride = /Users/juanc.zarate/Library/Developer/Xcode/DerivedData/WebDriverAgent-brdadhpuduowllgivnnvuygpwhzy\
+2019-05-04 20:22:21:578 - [Xcode] \
+2019-05-04 20:22:21:578 - [Xcode] Build settings from command line:\
+2019-05-04 20:22:21:578 - [Xcode]     COMPILER_INDEX_STORE_ENABLE = NO\
+2019-05-04 20:22:21:578 - [Xcode]     GCC_TREAT_WARNINGS_AS_ERRORS = 0\
+2019-05-04 20:22:21:578 - [Xcode]     IPHONEOS_DEPLOYMENT_TARGET = 12.2\
+2019-05-04 20:22:21:579 - [Xcode] \
+2019-05-04 20:22:21:579 - [Xcode] \
+2019-05-04 20:22:21:601 - [WD Proxy] Got an unexpected response: \{"errno":"ECONNRESET","code":"ECONNRESET","syscall":"read"\}\
+2019-05-04 20:22:22:606 - [debug] [WD Proxy] Matched '/status' to command name 'getStatus'\
+2019-05-04 20:22:22:606 - [debug] [WD Proxy] Proxying [GET /status] to [GET http://localhost:59958/status] with no body\
+2019-05-04 20:22:22:612 - [WD Proxy] Got an unexpected response: \{"errno":"ECONNRESET","code":"ECONNRESET","syscall":"read"\}\
+2019-05-04 20:22:22:727 - [Xcode] note: Using new build system\
+2019-05-04 20:22:22:727 - [Xcode] \
+2019-05-04 20:22:22:731 - [Xcode] note: Planning build\
+2019-05-04 20:22:22:732 - [Xcode] \
+2019-05-04 20:22:22:936 - [Xcode] note: Using build description from disk\
+2019-05-04 20:22:22:936 - [Xcode] \
+2019-05-04 20:22:23:073 - [Xcode] \
+2019-05-04 20:22:23:074 - [Xcode] \
+2019-05-04 20:22:23:075 - [Xcode] ** TEST BUILD SUCCEEDED **\
+2019-05-04 20:22:23:075 - [Xcode] \
+2019-05-04 20:22:23:075 - [Xcode] \
+2019-05-04 20:22:23:104 - [debug] [XCUITest] Log file for xcodebuild test: /Users/juanc.zarate/Library/Developer/Xcode/DerivedData/WebDriverAgent-brdadhpuduowllgivnnvuygpwhzy/Logs/Test/Test-WebDriverAgentRunner-2019.05.04_22-22-22-+0200.xcresult/2_Test/Diagnostics/WebDriverAgentRunner-5777AA33-3761-430C-AEE9-E5CD8BCA709D/WebDriverAgentRunner-DACA1788-5CE5-4AC5-8DEC-713DBBA2412E/Session-WebDriverAgentRunn2019-05-04 20:22:23:105 - [Xcode] 2019-05-04 22:22:23.104 xcodebuild[20151:233156]  IDETestOperationsObserverDebug: Writing diagnostic log for test session to:\
+2019-05-04 20:22:23:105 - [Xcode] /Users/juanc.zarate/Library/Developer/Xcode/DerivedData/WebDriverAgent-brdadhpuduowllgivnnvuygpwhzy/Logs/Test/Test-WebDriverAgentRunner-2019.05.04_22-22-22-+0200.xcresult/2_Test/Diagnostics/WebDriverAgentRunner-5777AA33-3761-430C-AEE9-E5CD8BCA709D/WebDriverAgentRunner-DACA1788-5CE5-4AC5-8DEC-713DBBA2412E/Session-WebDriverAgentRunner-2019-05-04_222223-5P8Tq2.log\
+2019-05-04 20:22:23:105 - [Xcode] \
+2019-05-04 20:22:23:105 - [Xcode] 2019-05-04 22:22:23.104 xcodebuild[20151:233119] [MT] IDETestOperationsObserverDebug: (ECC17945-7627-4435-A024-6CB4995EE546) Beginning test session WebDriverAgentRunner-ECC17945-7627-4435-A024-6CB4995EE546 at 2019-05-04 22:22:23.104 with Xcode 10E1001 on target 
+\f1 \uc0\u55357 \u56561 
+\f0 <DVTiOSDevice (0x7f9163ab7740), iPhone de Tienda, iPhone, 12.2 (16E227), 00008020-001305er-2019-05-04_222223-5P8Tq2.log\
+6136E1002E> \{\
+2019-05-04 20:22:23:105 - [Xcode] 		deviceSerialNumber:         C39Y9K50KPG1\
+2019-05-04 20:22:23:106 - [Xcode] 		identifier:                 00008020-0013056136E1002E\
+2019-05-04 20:22:23:106 - [Xcode] 		deviceClass:                iPhone\
+2019-05-04 20:22:23:106 - [Xcode] 		deviceName:                 iPhone de Tienda\
+2019-05-04 20:22:23:106 - [Xcode] 		deviceIdentifier:           00008020-0013056136E1002E\
+2019-05-04 20:22:23:106 - [Xcode] 		productVersion:             12.2\
+2019-05-04 20:22:23:106 - [Xcode] 		buildVersion:               16E227\
+2019-05-04 20:22:23:106 - [Xcode] 		deviceSoftwareVersion:      12.2 (16E227)\
+2019-05-04 20:22:23:106 - [Xcode] 		deviceArchitecture:         arm64e\
+2019-05-04 20:22:23:107 - [Xcode] 		deviceTotalCapacity:        59367043072\
+2019-05-04 20:22:23:107 - [Xcode] 		deviceAvailableCapacity:    50941259776\
+2019-05-04 20:22:23:107 - [Xcode] 		deviceIsTransient:          NO\
+2019-05-04 20:22:23:107 - [Xcode] 		ignored:                    NO\
+2019-05-04 20:22:23:107 - [Xcode] 		deviceIsBusy:               NO\
+2019-05-04 20:22:23:107 - [Xcode] 		deviceIsPaired:             YES\
+2019-05-04 20:22:23:107 - [Xcode] 		deviceIsActivated:          YES\
+2019-05-04 20:22:23:107 - [Xcode] 		deviceActivationState:      Activated\
+2019-05-04 20:22:23:107 - [Xcode] 		isPasscodeLocked:           NO\
+2019-05-04 20:22:23:107 - [Xcode] 		deviceType:                 <DVTDeviceType:0x7f9162ef2bf0 Xcode.DeviceType.iPhone>\
+2019-05-04 20:22:23:108 - [Xcode] 		supportedDeviceFamilies:    (\
+2019-05-04 20:22:23:108 - [Xcode]     1\
+2019-05-04 20:22:23:108 - [Xcode] )\
+2019-05-04 20:22:23:108 - [Xcode] 		applications:              (null)\
+2019-05-04 20:22:23:108 - [Xcode] 		provisioningProfiles:      (null)\
+2019-05-04 20:22:23:108 - [Xcode] 		hasInternalSupport:        NO\
+2019-05-04 20:22:23:108 - [Xcode] 		isSupportedOS:             YES\
+2019-05-04 20:22:23:108 - [Xcode] 		developerDiskMountError:   (null)\
+2019-05-04 20:22:23:108 - [Xcode] (null)\
+2019-05-04 20:22:23:108 - [Xcode] 	bootArgs:                  (null)\
+2019-05-04 20:22:23:109 - [Xcode] 		nextBootArgs:              (null)\
+2019-05-04 20:22:23:109 - [Xcode] 		connected:                 yes\
+2019-05-04 20:22:23:109 - [Xcode] 		isWirelessEnabled:         no\
+2019-05-04 20:22:23:109 - [Xcode] 		connectionType:            direct\
+2019-05-04 20:22:23:109 - [Xcode] 		hostname:                  (null)\
+2019-05-04 20:22:23:109 - [Xcode] 		bonjourServiceName:        58:6b:14:a6:bb:58@fe80::5a6b:14ff:fea6:bb58._apple-mobdev2._tcp.local.\
+2019-05-04 20:22:23:109 - [Xcode] 		\} (12.2 (16E227))\
+2019-05-04 20:22:23:109 - [Xcode] \
+2019-05-04 20:22:23:277 - [Xcode] 2019-05-04 22:22:23.277 xcodebuild[20151:233119] [MT] IDETestOperationsObserverDebug: (ECC17945-7627-4435-A024-6CB4995EE546) Finished requesting crash reports. Continuing with testing.\
+2019-05-04 20:22:23:277 - [Xcode] \
+2019-05-04 20:22:23:613 - [debug] [WD Proxy] Matched '/status' to command name 'getStatus'\
+2019-05-04 20:22:23:614 - [debug] [WD Proxy] Proxying [GET /status] to [GET http://localhost:59958/status] with no body\
+2019-05-04 20:22:23:618 - [WD Proxy] Got an unexpected response: \{"errno":"ECONNRESET","code":"ECONNRESET","syscall":"read"\}\
+2019-05-04 20:22:24:619 - [debug] [WD Proxy] Matched '/status' to command name 'getStatus'\
+2019-05-04 20:22:24:620 - [debug] [WD Proxy] Proxying [GET /status] to [GET http://localhost:59958/status] with no body\
+2019-05-04 20:22:24:628 - [WD Proxy] Got an unexpected response: \{"errno":"ECONNRESET","code":"ECONNRESET","syscall":"read"\}\
+2019-05-04 20:22:25:052 - [Xcode] writeDictToFile:1278 ==== Successfully wrote Manifest cache to /var/folders/9k/yyzh0_z51lx33jn3xzhvprkc0000gn/C/com.apple.DeveloperTools/All/Xcode/EmbeddedAppDeltas/153f35f568bbf0f71035e1e23ef64fb2/00008020-0013056136E1002E/ManifestCache.plist\
+2019-05-04 20:22:25:052 - [Xcode] \
+2019-05-04 20:22:25:629 - [debug] [WD Proxy] Matched '/status' to command name 'getStatus'\
+2019-05-04 20:22:25:629 - [debug] [WD Proxy] Proxying [GET /status] to [GET http://localhost:59958/status] with no body\
+2019-05-04 20:22:25:637 - [WD Proxy] Got an unexpected response: \{"errno":"ECONNRESET","code":"ECONNRESET","syscall":"read"\}\
+2019-05-04 20:22:26:638 - [debug] [WD Proxy] Matched '/status' to command name 'getStatus'\
+2019-05-04 20:22:26:639 - [debug] [WD Proxy] Proxying [GET /status] to [GET http://localhost:59958/status] with no body\
+2019-05-04 20:22:26:646 - [WD Proxy] Got an unexpected response: \{"errno":"ECONNRESET","code":"ECONNRESET","syscall":"read"\}\
+2019-05-04 20:22:27:646 - [debug] [WD Proxy] Matched '/status' to command name 'getStatus'\
+2019-05-04 20:22:27:647 - [debug] [WD Proxy] Proxying [GET /status] to [GET http://localhost:59958/status] with no body\
+2019-05-04 20:22:27:654 - [WD Proxy] Got an unexpected response: \{"errno":"ECONNRESET","code":"ECONNRESET","syscall":"read"\}\
+2019-05-04 20:22:27:890 - [Xcode] 2019-05-04 22:22:30.231642+0200 WebDriverAgentRunner-Runner[1114:324547] Running tests...\
+2019-05-04 20:22:27:890 - [Xcode] \
+2019-05-04 20:22:27:988 - [Xcode] objc[1114]: Class GCDAsyncSocketPreBuffer is implemented in both /private/var/containers/Bundle/Application/D8FA0F7C-4A0C-4AE3-8415-E5BED88D96FF/WebDriverAgentRunner-Runner.app/PlugIns/WebDriverAgentRunner.xctest/Frameworks/WebDriverAgentLib.framework/Frameworks/RoutingHTTPServer.framework/RoutingHTTPServer (0x106e85648) and /private/var/containers/Bundle/Application/D8FA0F7C-4A0C-4AE3-8415-E5BED88D96FF/WebDriverAgentRunner-Runner.app/PlugIns/WebDriverAgentRunner.xctest/Frameworks/WebDriverAgentLib.framework/Frameworks/CocoaAsyncSocket.framework/CocoaAsyncSocket (0x106de8578). One of the two will be used. Which one is undefined.\
+2019-05-04 20:22:27:988 - [Xcode] \
+2019-05-04 20:22:27:988 - [Xcode] objc[1114]: Class GCDAsyncReadPacket is implemented in both /private/var/containers/Bundle/Application/D8FA0F7C-4A0C-4AE3-8415-E5BED88D96FF/WebDriverAgentRunner-Runner.app/PlugIns/WebDriverAgentRunner.xctest/Frameworks/WebDriverAgentLib.framework/Frameworks/RoutingHTTPServer.framework/RoutingHTTPServer (0x106e85698) and /private/var/containers/Bundle/Application/D8FA0F7C-4A0C-4AE3-8415-E5BED88D96FF/WebDriverAgentRunner-Runner.app/PlugIns/WebDriverAgentRunner.xctest/Frameworks/WebDriverAgentLib.framework/Frameworks/CocoaAsyncSocket.framework/CocoaAsyncSocket (0x106de85c8). One of the two will be used. Which one is undefined.\
+2019-05-04 20:22:27:988 - [Xcode] objc[1114]: Class GCDAsyncWritePacket is implemented in both /private/var/containers/Bundle/Application/D8FA0F7C-4A0C-4AE3-8415-E5BED88D96FF/WebDriverAgentRunner-Runner.app/PlugIns/WebDriverAgentRunner.xctest/Frameworks/WebDriverAgentLib.framework/Frameworks/RoutingHTTPServer.framework/RoutingHTTPServer (0x106e856e8) and /private/var/containers/Bundle/Application/D8FA0F7C-4A0C-4AE3-8415-E5BED88D96FF/WebDriverAgentRunner-Runner.app/PlugIns/WebDriverAgentRunner.xctest/Frameworks/WebDriverAgentLib.framework/Frameworks/CocoaAsyncSocket.framework/CocoaAsyncSocket (0x106de8618). One of the two will be used. Which one is undefined.\
+2019-05-04 20:22:27:989 - [Xcode] objc[1114]: Class GCDAsyncSpecialPacket is implemented in both /private/var/containers/Bundle/Application/D8FA0F7C-4A0C-4AE3-8415-E5BED88D96FF/WebDriverAgentRunner-Runner.app/PlugIns/WebDriverAgentRunner.xctest/Frameworks/WebDriverAgentLib.framework/Frameworks/RoutingHTTPServer.framework/RoutingHTTPServer (0x106e85738) and /private/var/containers/Bundle/Application/D8FA0F7C-4A0C-4AE3-8415-E5BED88D96FF/WebDriverAgentRunner-Runner.app/PlugIns/WebDriverAgentRunner.xctest/Frameworks/WebDriverAgentLib.framework/Frameworks/CocoaAsyncSocket.framework/CocoaAsyncSocket (0x106de8668). One of the two will be used. Which one is undefined.\
+2019-05-04 20:22:27:989 - [Xcode] objc[1114]: Class GCDAsyncSocket is implemented in both /private/var/containers/Bundle/Application/D8FA0F7C-4A0C-4AE3-8415-E5BED88D96FF/WebDriverAgentRunner-Runner.app/PlugIns/WebDriverAgentRunner.xctest/Frameworks/WebDriverAgentLib.framework/Frameworks/RoutingHTTPServer.framework/RoutingHTTPServer (0x106e85788) and /private/var/containers/Bundle/Application/D8FA0F7C-4A0C-4AE3-8415-E5BED88D96FF/WebDriverAgentRunner-Runner.app/PlugIns/WebDriverAgentRunner.xctest/Frameworks/WebDriverAgentLib.framework/Frameworks/CocoaAsyncSocket.framework/CocoaAsyncSocket (0x106de86b8). One of the two will be used. Which one is undefined.\
+2019-05-04 20:22:27:989 - [Xcode] \
+2019-05-04 20:22:28:429 - [Xcode] Test Suite 'All tests' started at 2019-05-04 22:22:30.771\
+2019-05-04 20:22:28:430 - [Xcode] \
+2019-05-04 20:22:28:430 - [Xcode] Test Suite 'WebDriverAgentRunner.xctest' started at 2019-05-04 22:22:30.771\
+2019-05-04 20:22:28:430 - [Xcode] Test Suite 'UITestingUITests' started at 2019-05-04 22:22:30.771\
+2019-05-04 20:22:28:430 - [Xcode] \
+2019-05-04 20:22:28:459 - [Xcode] Test Case '-[UITestingUITests testRunner]' started.\
+2019-05-04 20:22:28:459 - [Xcode] \
+2019-05-04 20:22:28:460 - [Xcode]     t =     0.00s Start Test at 2019-05-04 22:22:30.801\
+2019-05-04 20:22:28:461 - [Xcode] \
+2019-05-04 20:22:28:463 - [Xcode]     t =     0.00s Set Up\
+2019-05-04 20:22:28:463 - [Xcode] \
+2019-05-04 20:22:28:469 - [Xcode] 2019-05-04 22:22:30.811172+0200 WebDriverAgentRunner-Runner[1114:324547] Built at May  4 2019 22:17:04\
+2019-05-04 20:22:28:469 - [Xcode] \
+2019-05-04 20:22:28:485 - [Xcode] 2019-05-04 22:22:30.826234+0200 WebDriverAgentRunner-Runner[1114:324547] ServerURLHere->http://192.168.1.45:8100<-ServerURLHere\
+2019-05-04 20:22:28:485 - [Xcode] \
+2019-05-04 20:22:28:486 - [Xcode] 2019-05-04 22:22:30.826918+0200 WebDriverAgentRunner-Runner[1114:324572] Using singleton test manager\
+2019-05-04 20:22:28:486 - [Xcode] \
+2019-05-04 20:22:28:655 - [debug] [WD Proxy] Matched '/status' to command name 'getStatus'\
+2019-05-04 20:22:28:655 - [debug] [WD Proxy] Proxying [GET /status] to [GET http://localhost:59958/status] with no body\
+2019-05-04 20:22:28:680 - [debug] [WD Proxy] Got response with status 200: "\{\\n  \\"value\\" : \{\\n    \\"state\\" : \\"success\\",\\n    \\"os\\" : \{\\n      \\"name\\" : \\"iOS\\",\\n      \\"version\\" : \\"12.2\\",\\n      \\"sdkVersion\\" : \\"12.2\\"\\n    \},\\n    \\"ios\\" : \{\\n      \\"simulatorVersion\\" : \\"12.2\\",\\n      \\"ip\\" : \\"192.168.1.45\\"\\n    \},\\n    \\"build\\" : \{\\n      \\"upgradedAt\\" : \\"1556912505463\\",\\n      \\"time\\" : \\"May  4 2019 22:17:04\\",\\n      \\"productBundleIdentifier\\" : \\"com.facebook.WebDriverAgentRunner\\"\\n    \}\\n  \},\\n  \\"sessionId\\" : \\"5B59A55C-A713-45CC-94AD-158DA4BADE50\\",\\n  \\"status\\" : 0\\n\}"\
+2019-05-04 20:22:28:681 - [debug] [WD Proxy] Determined that the downstream protocol for proxy is MJSONWP\
+2019-05-04 20:22:28:681 - [debug] [XCUITest] WebDriverAgent information:\
+2019-05-04 20:22:28:681 - [debug] [XCUITest] \{\
+2019-05-04 20:22:28:681 - [debug] [XCUITest]   "state": "success",\
+2019-05-04 20:22:28:682 - [debug] [XCUITest]   "os": \{\
+2019-05-04 20:22:28:682 - [debug] [XCUITest]     "name": "iOS",\
+2019-05-04 20:22:28:682 - [debug] [XCUITest]     "version": "12.2",\
+2019-05-04 20:22:28:682 - [debug] [XCUITest]     "sdkVersion": "12.2"\
+2019-05-04 20:22:28:682 - [debug] [XCUITest]   \},\
+2019-05-04 20:22:28:682 - [debug] [XCUITest]   "ios": \{\
+2019-05-04 20:22:28:682 - [debug] [XCUITest]     "simulatorVersion": "12.2",\
+2019-05-04 20:22:28:682 - [debug] [XCUITest]     "ip": "192.168.1.45"\
+2019-05-04 20:22:28:682 - [debug] [XCUITest]   \},\
+2019-05-04 20:22:28:683 - [debug] [XCUITest]   "build": \{\
+2019-05-04 20:22:28:683 - [debug] [XCUITest]     "upgradedAt": "1556912505463",\
+2019-05-04 20:22:28:683 - [debug] [XCUITest]     "time": "May  4 2019 22:17:04",\
+2019-05-04 20:22:28:683 - [debug] [XCUITest]     "productBundleIdentifier": "com.facebook.WebDriverAgentRunner"\
+2019-05-04 20:22:28:683 - [debug] [XCUITest]   \}\
+2019-05-04 20:22:28:683 - [debug] [XCUITest] \}\
+2019-05-04 20:22:28:692 - [debug] [XCUITest] WebDriverAgent successfully started after 7624ms\
+2019-05-04 20:22:28:693 - [debug] [BaseDriver] Event 'wdaSessionAttempted' logged at 1557001348693 (22:22:28 GMT+0200 (Central European Summer Time))\
+2019-05-04 20:22:28:693 - [debug] [XCUITest] Sending createSession command to WDA\
+2019-05-04 20:22:28:694 - [debug] [WD Proxy] Matched '/session' to command name 'createSession'\
+2019-05-04 20:22:28:695 - [debug] [WD Proxy] Proxying [POST /session] to [POST http://localhost:59958/session] with body: \{"desiredCapabilities":\{"bundleId":"es.Tienda.crfmobile.quali","arguments":[],"environment":\{\},"eventloopIdleDelaySec":0,"shouldWaitForQuiescence":true,"shouldUseTestManagerForVisibilityDetection":false,"maxTypingFrequency":60,"shouldUseSingletonTestManager":true\}\}\
+2019-05-04 20:22:28:727 - [Xcode]     t =     0.27s Open es.Tienda.crfmobile.quali\
+2019-05-04 20:22:28:728 - [Xcode]     t =     0.27s     Launch es.Tienda.crfmobile.quali\
+2019-05-04 20:22:28:729 - [Xcode] \
+2019-05-04 20:22:28:868 - [Xcode]     t =     0.41s         Wait for accessibility to load\
+2019-05-04 20:22:28:869 - [Xcode] \
+2019-05-04 20:22:28:978 - [Xcode]     t =     0.52s         Wait for es.Tienda.crfmobile.quali to idle\
+2019-05-04 20:22:28:978 - [Xcode] \
+2019-05-04 20:22:30:981 - [Xcode]     t =     2.52s Find the Application 'com.apple.springboard'\
+2019-05-04 20:22:30:982 - [Xcode] \
+2019-05-04 20:22:30:983 - [Xcode]     t =     2.52s     Snapshot accessibility hierarchy for app with pid 55\
+2019-05-04 20:22:30:983 - [Xcode] \
+2019-05-04 20:22:31:117 - [debug] [WD Proxy] Got response with status 200: \{"value":\{"sessionId":"B5EAC88F-7E1D-4720-86B9-719DDA323566","capabilities":\{"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard"\}\},"sessionId":"B5EAC88F-7E1D-4720-86B9-719DDA323566","status":0\}\
+2019-05-04 20:22:31:118 - [debug] [WD Proxy] Determined that the downstream protocol for proxy is MJSONWP\
+2019-05-04 20:22:31:118 - [debug] [BaseDriver] Event 'wdaSessionStarted' logged at 1557001351118 (22:22:31 GMT+0200 (Central European Summer Time))\
+2019-05-04 20:22:31:118 - [debug] [BaseDriver] Event 'wdaStarted' logged at 1557001351118 (22:22:31 GMT+0200 (Central European Summer Time))\
+2019-05-04 20:22:31:119 - [XCUITest] Skipping setting of the initial display orientation. Set the "orientation" capability to either "LANDSCAPE" or "PORTRAIT", if this is an undesired behavior.\
+2019-05-04 20:22:31:119 - [debug] [BaseDriver] Event 'orientationSet' logged at 1557001351119 (22:22:31 GMT+0200 (Central European Summer Time))\
+2019-05-04 20:22:31:119 - [Appium] New XCUITestDriver session created successfully, session c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 added to master session list\
+2019-05-04 20:22:31:120 - [debug] [BaseDriver] Event 'newSessionStarted' logged at 1557001351120 (22:22:31 GMT+0200 (Central European Summer Time))\
+2019-05-04 20:22:31:121 - [debug] [W3C (c0296794)] Cached the protocol value 'W3C' for the new session c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:31:121 - [debug] [W3C (c0296794)] Responding to client with driver.createSession() result: \{"capabilities":\{"webStorageEnabled":false,"locationContextEnabled":false,"browserName":"","platform":"MAC","javascriptEnabled":true,"databaseEnabled":false,"takesScreenshot":true,"networkConnectionEnabled":false,"platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"udid":"00008020-0013056136E1002E","useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958\}\}\
+2019-05-04 20:22:31:122 - [HTTP] <-- POST /wd/hub/session 200 22222 ms - 764\
+2019-05-04 20:22:31:122 - [HTTP] \
+2019-05-04 20:22:31:123 - [debug] [XCUITest] Connection to WDA timed out\
+2019-05-04 20:22:31:123 - [debug] [iProxy] recv failed: Operation not permitted\
+may 04, 2019 10:22:31 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0\
+INFORMACI\'d3N: Detected dialect: W3C\
+2019-05-04 20:22:31:193 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:31:193 - [HTTP] \{\}\
+2019-05-04 20:22:31:194 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:31:195 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:31:243 - [debug] [WD Proxy] Matched '/' to command name 'getSession'\
+2019-05-04 20:22:31:243 - [debug] [WD Proxy] Proxying [GET /] to [GET http://localhost:59958/session/B5EAC88F-7E1D-4720-86B9-719DDA323566] with no body\
+2019-05-04 20:22:31:278 - [Xcode]     t =     2.82s Find the Application 'com.apple.springboard'\
+2019-05-04 20:22:31:278 - [Xcode] \
+2019-05-04 20:22:31:280 - [Xcode]     t =     2.82s     Snapshot accessibility hierarchy for app with pid 55\
+2019-05-04 20:22:31:281 - [Xcode] \
+2019-05-04 20:22:31:413 - [debug] [WD Proxy] Got response with status 200: "\{\\n  \\"value\\" : \{\\n    \\"sessionId\\" : \\"B5EAC88F-7E1D-4720-86B9-719DDA323566\\",\\n    \\"capabilities\\" : \{\\n      \\"device\\" : \\"iphone\\",\\n      \\"browserName\\" : \\" \\",\\n      \\"sdkVersion\\" : \\"12.2\\",\\n      \\"CFBundleIdentifier\\" : \\"com.apple.springboard\\"\\n    \}\\n  \},\\n  \\"sessionId\\" : \\"B5EAC88F-7E1D-4720-86B9-719DDA323566\\",\\n  \\"status\\" : 0\\n\}"\
+2019-05-04 20:22:31:429 - [debug] [WD Proxy] Proxying [GET /wda/screen] to [GET http://localhost:59958/session/B5EAC88F-7E1D-4720-86B9-719DDA323566/wda/screen] with no body\
+2019-05-04 20:22:31:433 - [debug] [XCUITest] Connection to WDA timed out\
+2019-05-04 20:22:31:434 - [debug] [iProxy] recv failed: Operation not permitted\
+2019-05-04 20:22:31:462 - [Xcode]     t =     3.00s Checking existence of `StatusBar`\
+2019-05-04 20:22:31:464 - [Xcode] \
+2019-05-04 20:22:31:464 - [Xcode]     t =     3.00s     Snapshot accessibility hierarchy for app with pid 55\
+2019-05-04 20:22:31:465 - [Xcode] \
+2019-05-04 20:22:31:587 - [Xcode]     t =     3.13s     Find: Descendants matching type StatusBar\
+2019-05-04 20:22:31:587 - [Xcode] \
+2019-05-04 20:22:31:593 - [debug] [WD Proxy] Got response with status 200: "\{\\n  \\"value\\" : \{\\n    \\"statusBarSize\\" : \{\\n      \\"width\\" : 0,\\n      \\"height\\" : 0\\n    \},\\n    \\"scale\\" : 2\\n  \},\\n  \\"sessionId\\" : \\"B5EAC88F-7E1D-4720-86B9-719DDA323566\\",\\n  \\"status\\" : 0\\n\}"\
+2019-05-04 20:22:31:594 - [debug] [WD Proxy] Proxying [GET /window/size] to [GET http://localhost:59958/session/B5EAC88F-7E1D-4720-86B9-719DDA323566/window/size] with no body\
+2019-05-04 20:22:31:595 - [debug] [XCUITest] Connection to WDA timed out\
+2019-05-04 20:22:31:595 - [debug] [iProxy] recv failed: Operation not permitted\
+2019-05-04 20:22:31:609 - [Xcode]     t =     3.15s Snapshot accessibility hierarchy for app with pid 55\
+2019-05-04 20:22:31:610 - [Xcode] \
+2019-05-04 20:22:31:779 - [debug] [WD Proxy] Got response with status 200: "\{\\n  \\"value\\" : \{\\n    \\"width\\" : 375,\\n    \\"height\\" : 812\\n  \},\\n  \\"sessionId\\" : \\"B5EAC88F-7E1D-4720-86B9-719DDA323566\\",\\n  \\"status\\" : 0\\n\}"\
+2019-05-04 20:22:31:779 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:31:779 - [debug] [XCUITest] Connection to WDA timed out\
+2019-05-04 20:22:31:779 - [debug] [iProxy] recv failed: Operation not permitted\
+2019-05-04 20:22:31:780 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:31:781 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 588 ms - 694\
+2019-05-04 20:22:31:782 - [HTTP] \
+2019-05-04 20:22:31:788 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:31:788 - [HTTP] \{\}\
+2019-05-04 20:22:31:788 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:31:788 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:31:790 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:31:790 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:31:791 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 3 ms - 694\
+2019-05-04 20:22:31:791 - [HTTP] \
+2019-05-04 20:22:31:827 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:31:827 - [HTTP] \{\}\
+2019-05-04 20:22:31:828 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:31:828 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:31:829 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:31:829 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:31:830 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:31:830 - [HTTP] \
+2019-05-04 20:22:31:833 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:31:833 - [HTTP] \{\}\
+2019-05-04 20:22:31:833 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:31:833 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:31:834 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:31:834 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:31:835 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:31:835 - [HTTP] \
+2019-05-04 20:22:31:993 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:31:993 - [HTTP] \{\}\
+2019-05-04 20:22:31:993 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:31:993 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:31:994 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:31:994 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:31:995 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:31:995 - [HTTP] \
+2019-05-04 20:22:31:997 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:31:997 - [HTTP] \{\}\
+2019-05-04 20:22:31:998 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:31:998 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:000 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:000 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:001 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 3 ms - 694\
+2019-05-04 20:22:32:001 - [HTTP] \
+2019-05-04 20:22:32:017 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:017 - [HTTP] \{\}\
+2019-05-04 20:22:32:018 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:018 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:019 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:019 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:020 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:020 - [HTTP] \
+2019-05-04 20:22:32:022 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:022 - [HTTP] \{\}\
+2019-05-04 20:22:32:022 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:022 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:025 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:026 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:027 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 4 ms - 694\
+2019-05-04 20:22:32:027 - [HTTP] \
+2019-05-04 20:22:32:056 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:056 - [HTTP] \{\}\
+2019-05-04 20:22:32:056 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:056 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:058 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:059 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:061 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 4 ms - 694\
+2019-05-04 20:22:32:061 - [HTTP] \
+2019-05-04 20:22:32:065 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:065 - [HTTP] \{\}\
+2019-05-04 20:22:32:066 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:066 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:067 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:067 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:068 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:068 - [HTTP] \
+2019-05-04 20:22:32:075 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:075 - [HTTP] \{\}\
+2019-05-04 20:22:32:075 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:075 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:076 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:077 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:077 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:077 - [HTTP] \
+2019-05-04 20:22:32:081 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:081 - [HTTP] \{\}\
+2019-05-04 20:22:32:081 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:081 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:082 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:082 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:083 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:083 - [HTTP] \
+2019-05-04 20:22:32:090 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:090 - [HTTP] \{\}\
+2019-05-04 20:22:32:091 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:091 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:091 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:092 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:092 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:092 - [HTTP] \
+2019-05-04 20:22:32:096 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:096 - [HTTP] \{\}\
+2019-05-04 20:22:32:097 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:097 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:097 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:098 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:098 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:098 - [HTTP] \
+2019-05-04 20:22:32:104 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:104 - [HTTP] \{\}\
+2019-05-04 20:22:32:104 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:104 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:105 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:105 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:106 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:106 - [HTTP] \
+2019-05-04 20:22:32:111 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:113 - [HTTP] \{\}\
+2019-05-04 20:22:32:114 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:114 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:114 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:115 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:115 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 4 ms - 694\
+2019-05-04 20:22:32:115 - [HTTP] \
+2019-05-04 20:22:32:144 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:144 - [HTTP] \{\}\
+2019-05-04 20:22:32:144 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:144 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:145 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:145 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:146 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:146 - [HTTP] \
+2019-05-04 20:22:32:148 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:149 - [HTTP] \{\}\
+2019-05-04 20:22:32:149 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:149 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:150 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:150 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:151 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:151 - [HTTP] \
+2019-05-04 20:22:32:155 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:155 - [HTTP] \{\}\
+2019-05-04 20:22:32:155 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:156 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:156 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:157 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:157 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:157 - [HTTP] \
+2019-05-04 20:22:32:159 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:159 - [HTTP] \{\}\
+2019-05-04 20:22:32:160 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:160 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:160 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:161 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:161 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:161 - [HTTP] \
+2019-05-04 20:22:32:164 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:165 - [HTTP] \{\}\
+2019-05-04 20:22:32:165 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:165 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:166 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:166 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:166 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:167 - [HTTP] \
+2019-05-04 20:22:32:168 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:169 - [HTTP] \{\}\
+2019-05-04 20:22:32:169 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:169 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:170 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:170 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:170 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:171 - [HTTP] \
+2019-05-04 20:22:32:177 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:177 - [HTTP] \{\}\
+2019-05-04 20:22:32:177 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:178 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:178 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:179 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:179 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:179 - [HTTP] \
+2019-05-04 20:22:32:181 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:181 - [HTTP] \{\}\
+2019-05-04 20:22:32:181 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:181 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:182 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:182 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:183 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:183 - [HTTP] \
+2019-05-04 20:22:32:198 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:198 - [HTTP] \{\}\
+2019-05-04 20:22:32:198 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:198 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:200 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:201 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:201 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 3 ms - 694\
+2019-05-04 20:22:32:201 - [HTTP] \
+2019-05-04 20:22:32:204 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:204 - [HTTP] \{\}\
+2019-05-04 20:22:32:204 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:205 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:205 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:206 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:206 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:206 - [HTTP] \
+2019-05-04 20:22:32:212 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:212 - [HTTP] \{\}\
+2019-05-04 20:22:32:212 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:212 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:213 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:213 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:215 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:215 - [HTTP] \
+2019-05-04 20:22:32:216 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:216 - [HTTP] \{\}\
+2019-05-04 20:22:32:216 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:217 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:217 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:218 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:218 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:218 - [HTTP] \
+2019-05-04 20:22:32:223 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:223 - [HTTP] \{\}\
+2019-05-04 20:22:32:223 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:224 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:224 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:225 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:225 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:225 - [HTTP] \
+2019-05-04 20:22:32:228 - [HTTP] --> GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:228 - [HTTP] \{\}\
+2019-05-04 20:22:32:229 - [debug] [W3C (c0296794)] Calling AppiumDriver.getSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:229 - [debug] [XCUITest] Executing command 'getSession'\
+2019-05-04 20:22:32:229 - [XCUITest] Merging WDA caps over Appium caps for session detail response\
+2019-05-04 20:22:32:230 - [debug] [W3C (c0296794)] Responding to client with driver.getSession() result: \{"udid":"00008020-0013056136E1002E","platformName":"ios","restart":true,"app":"/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/src/test/resources/apks/Tienda Cuali 2019-05-03 09-19-21/Tienda Cuali.ipa","automationName":"XCUITest","clearSystemFiles":true,"deviceName":"iPhone de Tienda","newCommandTimeout":250,"noReset":false,"platformVersion":"12.2","showXcodeLog":true,"useNewWDA":false,"wdaConnectionTimeout":999999999,"wdaLaunchTimeout":999999999,"wdaLocalPort":59958,"device":"iphone","browserName":" ","sdkVersion":"12.2","CFBundleIdentifier":"com.apple.springboard","pixelRatio":2,"statBarHeight":0,"viewportRect":\{"left":0,"top":0,"width":750,"height":1624\}\}\
+2019-05-04 20:22:32:230 - [HTTP] <-- GET /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 2 ms - 694\
+2019-05-04 20:22:32:230 - [HTTP] \
+\
+0 Scenarios\
+0 Steps\
+0m26,810s\
+\
+2019-05-04 20:22:32:276 - [HTTP] --> DELETE /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0\
+2019-05-04 20:22:32:276 - [HTTP] \{\}\
+2019-05-04 20:22:32:276 - [debug] [W3C (c0296794)] Calling AppiumDriver.deleteSession() with args: ["c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0"]\
+2019-05-04 20:22:32:276 - [debug] [BaseDriver] Event 'quitSessionRequested' logged at 1557001352276 (22:22:32 GMT+0200 (Central European Summer Time))\
+2019-05-04 20:22:32:277 - [Appium] Removing session c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 from our master session list\
+2019-05-04 20:22:32:278 - [debug] [WD Proxy] Matched '/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0' to command name 'deleteSession'\
+2019-05-04 20:22:32:278 - [debug] [WD Proxy] Proxying [DELETE /session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0] to [DELETE http://localhost:59958/session/B5EAC88F-7E1D-4720-86B9-719DDA323566] with no body\
+2019-05-04 20:22:32:289 - [Xcode]     t =     3.83s Terminate es.Tienda.crfmobile.quali:1117\
+2019-05-04 20:22:32:292 - [Xcode] \
+2019-05-04 20:22:33:359 - [debug] [WD Proxy] Got response with status 200: "\{\\n  \\"value\\" : \{\\n\\n  \},\\n  \\"sessionId\\" : \\"5F2986FC-0874-41BD-BD3A-FF1E08BADBAA\\",\\n  \\"status\\" : 0\\n\}"\
+2019-05-04 20:22:33:360 - [debug] [XCUITest] Connection to WDA timed out\
+2019-05-04 20:22:33:360 - [debug] [iProxy] recv failed: Operation not permitted\
+2019-05-04 20:22:33:434 - [debug] [XCUITest] Started background XCTest logs cleanup: find -E /private/var/folders -regex '.*/Session-WebDriverAgentRunner.*\\.log$|.*/StandardOutputAndStandardError\\.txt$' -type f -exec sh -c 'echo "" > "\{\}"' \\;\
+2019-05-04 20:22:33:434 - [XCUITest] Cleaning test logs in '/Users/juanc.zarate/Library/Developer/Xcode/DerivedData/WebDriverAgent-brdadhpuduowllgivnnvuygpwhzy/Logs' folder\
+2019-05-04 20:22:33:435 - [debug] [iOS] Clearing log files\
+2019-05-04 20:22:33:441 - [debug] [iOS] Deleting '/Users/juanc.zarate/Library/Developer/Xcode/DerivedData/WebDriverAgent-brdadhpuduowllgivnnvuygpwhzy/Logs'. Freeing 64K.\
+2019-05-04 20:22:33:447 - [debug] [iOS] Finished clearing log files\
+2019-05-04 20:22:33:448 - [debug] [iOSLog] Stopping iOS log capture\
+2019-05-04 20:22:33:454 - [debug] [BaseDriver] Event 'quitSessionFinished' logged at 1557001353454 (22:22:33 GMT+0200 (Central European Summer Time))\
+2019-05-04 20:22:33:454 - [debug] [W3C (c0296794)] Received response: null\
+2019-05-04 20:22:33:454 - [debug] [W3C (c0296794)] But deleting session, so not returning\
+2019-05-04 20:22:33:454 - [debug] [W3C (c0296794)] Responding to client with driver.deleteSession() result: null\
+2019-05-04 20:22:33:455 - [HTTP] <-- DELETE /wd/hub/session/c0296794-a99e-4a0d-bfd4-13c4eb7e9dd0 200 1179 ms - 14\
+2019-05-04 20:22:33:455 - [HTTP] \
+[ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 28.662 s <<< FAILURE! - in qa.Tienda.app.runner.RunnerTest\
+[ERROR] Feature: Make a warehouse product order - Card payment  Time elapsed: 27.392 s  <<< ERROR!\
+cucumber.runtime.CucumberException: Failed to instantiate class qa.Tienda.app.steps.WalletSteps\
+Caused by: java.lang.reflect.InvocationTargetException\
+Caused by: java.lang.NullPointerException\
+\
+[INFO] \
+[INFO] Results:\
+[INFO] \
+[ERROR] Errors: \
+[ERROR]   Failed to instantiate class qa.Tienda.app.steps.WalletSteps\
+[INFO] \
+[ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0\
+[INFO] \
+[ERROR] There are test failures.\
+\
+Please refer to /Users/juanc.zarate/testing-automatico/AppMiTienda3.0/target/surefire-reports for the individual test results.\
+Please refer to dump files (if any exist) [date].dump, [date]-jvmRun[N].dump and [date].dumpstream.\
+[INFO] \
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ AppMiTienda3.0 ---\
+[INFO] Building jar: /Users/juanc.zarate/testing-automatico/AppMiTienda3.0/target/AppMiTienda3.0-3.0.jar\
+[INFO] \
+[INFO] --- maven-cucumber-reporting:4.5.0:generate (execution) @ AppMiTienda3.0 ---\
+[INFO] About to generate Cucumber report.\
+may 04, 2019 10:22:34 PM net.masterthought.cucumber.ReportParser parseForFeature\
+INFORMACI\'d3N: File '/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/target/reports/cucumber.json' does not contain features\
+may 04, 2019 10:22:34 PM net.masterthought.cucumber.ReportParser parseJsonFiles\
+INFORMACI\'d3N: File '/Users/juanc.zarate/testing-automatico/AppMiTienda3.0/target/reports/cucumber.json' contains 0 features\
+may 04, 2019 10:22:34 PM net.masterthought.cucumber.ReportBuilder generateErrorPage\
+INFORMACI\'d3N: Unexpected error\
+net.masterthought.cucumber.ValidationException: Passed files have no features!\
+	at net.masterthought.cucumber.ReportParser.parseJsonFiles(ReportParser.java:78)\
+	at net.masterthought.cucumber.ReportBuilder.generateReports(ReportBuilder.java:88)\
+	at net.masterthought.cucumber.CucumberReportGeneratorMojo.execute(CucumberReportGeneratorMojo.java:182)\
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:134)\
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:207)\
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:153)\
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:145)\
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:116)\
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:80)\
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:51)\
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)\
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:307)\
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:193)\
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:106)\
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:863)\
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:288)\
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:199)\
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\
+	at java.lang.reflect.Method.invoke(Method.java:498)\
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:289)\
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:229)\
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:415)\
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:356)\
+	at org.codehaus.classworlds.Launcher.main(Launcher.java:47)\
+\
+[INFO] \
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ AppMiTienda3.0 ---\
+[INFO] Installing /Users/juanc.zarate/testing-automatico/AppMiTienda3.0/target/AppMiTienda3.0-3.0.jar to /Users/juanc.zarate/.m2/repository/com/appmiTienda/testing/AppMiTienda3.0/3.0/AppMiTienda3.0-3.0.jar\
+[INFO] Installing /Users/juanc.zarate/testing-automatico/AppMiTienda3.0/pom.xml to /Users/juanc.zarate/.m2/repository/com/appmiTienda/testing/AppMiTienda3.0/3.0/AppMiTienda3.0-3.0.pom\
+[INFO] \
+[INFO] --- exec-maven-plugin:1.6.0:exec (some-execution) @ AppMiTienda3.0 ---\
+[INFO] ------------------------------------------------------------------------\
+[INFO] BUILD SUCCESS\
+[INFO] ------------------------------------------------------------------------\
+[INFO] Total time: 37.285 s\
+[INFO] Finished at: 2019-05-04T22:22:35+02:00\
+[INFO] Final Memory: 31M/387M\
+[INFO] ------------------------------------------------------------------------\
+\
+Process finished with exit code 0\
+}
